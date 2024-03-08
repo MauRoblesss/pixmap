@@ -1,0 +1,471 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: src/core/ChatProvider.js:434
+msgid "You can not send chat messages with proxy"
+msgstr "Non puoi mandare messaggi in chat con proxy, non fare come i serbi"
+
+#: src/core/ChatProvider.js:436
+msgid "Your country is temporary muted from this chat channel"
+msgstr "Il tuo paese è temporaneamente mutato da questa chat"
+
+#: src/core/ChatProvider.js:439
+msgid "You are permanently muted, join our guilded to appeal the mute"
+msgstr ""
+"Sei mutato permanentemente, entra sul nostro server Guilded per richiedere "
+"la rimozione del mute. Oppure entra su discord.io/italy "
+
+#: src/core/ChatProvider.js:441
+msgid "You are banned"
+msgstr "Sei bannato, vai a parlare con donne vere"
+
+#: src/core/ChatProvider.js:443
+msgid "Your Internet Provider is banned"
+msgstr "Il tuo internet provider è bannato (ti direi di ritenerti fortunato)"
+
+#: src/core/ChatProvider.js:448
+#, javascript-format
+msgid "You are muted for another ${ timeMin } minutes"
+msgstr "Sei mutato ancora per ${ timeMin } minuti"
+
+#: src/core/ChatProvider.js:450
+msgid "You are muted for another ${ ttl } seconds"
+msgstr "Sei mutato ancora per ${ ttl } secondi"
+
+#: src/core/ChatProvider.js:467
+#, javascript-format
+msgid "You are sending messages too fast, you have to wait ${ waitTime }s :("
+msgstr ""
+"Stai mandando messaggi troppo velocemente, devi aspettare ${ waitTime }s :("
+
+#: src/core/ChatProvider.js:471
+msgid "You don't have access to this channel"
+msgstr "Non hai accesso a questa chat"
+
+#: src/core/ChatProvider.js:488
+msgid "Your mail has to be verified in order to chat"
+msgstr "Devi verificare la tua mail per chattare"
+
+#: src/core/ChatProvider.js:498
+msgid "You can't send a message this long :("
+msgstr "Non puoi mandare un messaggio così lungo :("
+
+#: src/core/ChatProvider.js:502
+msgid "Please use int channel"
+msgstr "Per favore usa il canale \"int\". Letteralmente 1984"
+
+#: src/core/ChatProvider.js:510
+msgid "Stop flooding."
+msgstr "Manda messaggi più lentamente, sarai mica un turco"
+
+#: src/routes/reset_password.js:39
+msgid "You sent an empty password or invalid data :("
+msgstr "Hai inserito una password vuota o data invalido :("
+
+#: src/routes/reset_password.js:51
+msgid "This password-reset link isn't valid anymore :("
+msgstr "Questo password reset link non è più valido"
+
+#: src/routes/reset_password.js:62
+msgid "Your passwords do not match :("
+msgstr "Le tue password non corrispondono"
+
+#: src/routes/reset_password.js:77
+msgid "User doesn't exist in our database :("
+msgstr "Questo user non esiste nei nostri database"
+
+#: src/routes/reset_password.js:89
+msgid "Password successfully changed."
+msgstr "Password cambiata con successo"
+
+#: src/routes/reset_password.js:108
+msgid "Invalid url :( Please check your mail again."
+msgstr "Url invalido :( Per favore controlla nuovamente la tua mail"
+
+#: src/ssr/Globe.jsx:32
+msgid "PixMap.Fun 3DGlobe"
+msgstr "PixMap.Fun Globo 3D"
+
+#: src/ssr/Globe.jsx:33
+msgid "A 3D globe of our whole map"
+msgstr "Un Globo 3D di tutta la nostra mappa"
+
+#: src/ssr/Globe.jsx:46
+msgid "Double click on globe to go back."
+msgstr "Doppio click sul globo per andare indietro"
+
+#: src/ssr/Globe.jsx:47
+msgid "Loading..."
+msgstr "Caricamento..."
+
+#: src/ssr/PopUp.jsx:58
+msgid "pmfun"
+msgstr "pmfun"
+
+#: src/ssr/PopUp.jsx:59
+msgid "PixMap.Fun PopUp"
+msgstr "PixMap.Fun PopUp"
+
+#: src/ssr/Main.jsx:67
+msgid "PixMap.Fun"
+msgstr "PixMap.Fun"
+
+#: src/ssr/Main.jsx:68
+msgid "Place color pixels on an map styled canvas with other players online"
+msgstr "Piazza pixel colorati in un canvas con altri player online"
+
+#: src/utils/validation.js:17
+msgid "Email can't be empty."
+msgstr "L'email non può essere vuota"
+
+#: src/utils/validation.js:18
+msgid "Email should be at least 5 characters long."
+msgstr "L'email dovrebbe essere almeno lunga 5 caratteri"
+
+#: src/utils/validation.js:19
+msgid "Email can't be longer than 40 characters."
+msgstr "L'email non può essere più lunga di 40 caratteri"
+
+#: src/utils/validation.js:20
+msgid "Email should at least contain a dot"
+msgstr "L'email deve contenere almeno un punto"
+
+#: src/utils/validation.js:22
+msgid "Email should contain a @"
+msgstr "L'email deve contenere una @"
+
+#: src/utils/validation.js:29
+msgid "Name can't be empty."
+msgstr "Il nome non può essere vuoto"
+
+#: src/utils/validation.js:30
+msgid "Name must be at least 2 characters long"
+msgstr "Il nome deve avere almeno due caratteri"
+
+#: src/utils/validation.js:31
+msgid "Name must be shorter than 26 characters"
+msgstr "Il nome deve essere più corto di 26 caratteri"
+
+#: src/utils/validation.js:38
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Il nome contiene caratteri invalidi come @, /, \\ o #"
+
+#: src/utils/validation.js:53
+msgid "No password given."
+msgstr "Nessuna passwrod data"
+
+#: src/utils/validation.js:56
+msgid "Password must be at least 6 characters long."
+msgstr "La password deve avere almeno 6 caratteri"
+
+#: src/utils/validation.js:59
+msgid "Password must be shorter than 60 characters."
+msgstr "La password deve essere più corta di 60 caratteri"
+
+#: src/ssr/PasswordReset.jsx:20 src/ssr/PasswordReset.jsx:40
+msgid "PixMap.fun Password Reset"
+msgstr "PixMap.fun Password Reset"
+
+#: src/ssr/PasswordReset.jsx:21 src/ssr/PasswordReset.jsx:41
+msgid "Reset your password here"
+msgstr "Resetta la tua password qui"
+
+#: src/core/MailProvider.js:105 src/ssr/PasswordReset.jsx:28
+#: src/ssr/PasswordReset.jsx:49
+msgid "Reset Password"
+msgstr "Reset Password"
+
+#: src/ssr/PasswordReset.jsx:30 src/ssr/RedirectionPage.jsx:12
+msgid "Click here"
+msgstr "Clicca qui"
+
+#: src/ssr/PasswordReset.jsx:30
+msgid "to go back to pixmap"
+msgstr "per tornare su pixmap "
+
+#: src/ssr/PasswordReset.jsx:50
+#, javascript-format
+msgid "Hello ${ name }, you can set your new password here:"
+msgstr "Ciao ${ name }, pui mettere la tua nuova password qui"
+
+#: src/ssr/PasswordReset.jsx:54
+msgid "New Password"
+msgstr "Nuova password"
+
+#: src/ssr/PasswordReset.jsx:60
+msgid "Confirm New Password"
+msgstr "Conferma nuova password"
+
+#: src/ssr/PasswordReset.jsx:65
+msgid "Submit"
+msgstr "Manda"
+
+#: src/routes/api/modtools.js:53
+msgid "You are not logged in"
+msgstr "Non hai effettuato l'accesso"
+
+#: src/routes/api/modtools.js:65
+msgid "You are not allowed to access this page"
+msgstr "Non hai il permasso di accedere a questa pagina"
+
+#: src/routes/api/modtools.js:207
+msgid "Just admins can do that"
+msgstr "Solo gli admin possono farlo"
+
+#: src/routes/api/baninfo.js:32
+msgid "You are not banned"
+msgstr "Non sei bannato (purtroppo)"
+
+#: src/routes/api/auth/change_mail.js:21 src/routes/api/auth/register.js:24
+msgid "This email provider is not allowed"
+msgstr "Il tuo email provider non è permesso, 1984"
+
+#: src/routes/api/auth/register.js:31
+msgid "No Captcha given"
+msgstr "Nessun captcha dato"
+
+#: src/routes/api/auth/register.js:34
+msgid "E-Mail already in use."
+msgstr "Email già in uso"
+
+#: src/routes/api/auth/register.js:36
+msgid "Username already in use."
+msgstr "Username già in uso"
+
+#: src/routes/api/auth/register.js:59
+msgid "You took too long, try again."
+msgstr "Ci hai messo troppo, riprova"
+
+#: src/routes/api/auth/register.js:62
+msgid "You failed your captcha"
+msgstr "Hai sbagliato il captcha"
+
+#: src/routes/api/auth/register.js:65
+msgid "Unknown Captcha Error"
+msgstr "Errore del captcha sconosciuto"
+
+#: src/routes/api/auth/register.js:89
+msgid "Failed to create new user :("
+msgstr "Fallimento nel creare un nuovo user"
+
+#: src/routes/api/auth/register.js:105
+msgid "Failed to establish session after register :("
+msgstr "Fallimento nel ristabilire una sessione dopo la registraione"
+
+#: src/routes/api/auth/logout.js:11
+msgid "You are not even logged in."
+msgstr "Non hai nemmeno fatto l'accesso"
+
+#: src/routes/api/auth/delete_account.js:55 src/routes/api/auth/logout.js:20
+msgid "Server error when logging out."
+msgstr "Errore del server durante il log out"
+
+#: src/routes/api/auth/change_mail.js:43
+#: src/routes/api/auth/change_passwd.js:34
+#: src/routes/api/auth/delete_account.js:35
+msgid "You are not authenticated."
+msgstr "Non sei autentificato"
+
+#: src/routes/api/auth/change_mail.js:52
+#: src/routes/api/auth/change_passwd.js:43
+#: src/routes/api/auth/delete_account.js:45
+msgid "Incorrect password!"
+msgstr "Password incorretta"
+
+#: src/routes/api/auth/verify.js:26 src/routes/api/auth/verify.js:35
+msgid "Mail verification"
+msgstr "Verificazione mail"
+
+#: src/routes/api/auth/verify.js:27
+msgid "You are now verified :)"
+msgstr "Adesso sei verificato"
+
+#: src/routes/api/auth/verify.js:35
+msgid ""
+"Your mail verification code is invalid or already expired :(, please request "
+"a new one."
+msgstr ""
+"Il tuo mail verification code è invalido o è già scaduto ;(, per farvore "
+"richiedine uno nuovo"
+
+#: src/ssr/RedirectionPage.jsx:19
+msgid "PixMap.fun Accounts"
+msgstr "PixMap.fun Accounts"
+
+#: src/ssr/RedirectionPage.jsx:29
+msgid "You will be automatically redirected after 15s"
+msgstr "Sarai rediretto automaticamente dopo 15s"
+
+#: src/ssr/RedirectionPage.jsx:30
+#, javascript-format
+msgid "Or ${ clickHere } to go back to pixmap"
+msgstr "o ${ clickHere } per tornare su pixmap"
+
+#: src/canvasesDesc.js:19
+msgid "Earth"
+msgstr "Terra"
+
+#: src/canvasesDesc.js:20
+msgid "Moon"
+msgstr "Luna "
+
+#: src/canvasesDesc.js:21
+msgid "3D Canvas"
+msgstr "3D Canvas"
+
+#: src/canvasesDesc.js:22
+msgid "Coronavirus"
+msgstr "Coronavirus"
+
+#: src/canvasesDesc.js:23
+msgid "PixelZone"
+msgstr "PixelZone"
+
+#: src/canvasesDesc.js:24
+msgid "PixelCanvas"
+msgstr "PixelCanvas"
+
+#: src/canvasesDesc.js:25
+msgid "1bit"
+msgstr "1bit"
+
+#: src/canvasesDesc.js:26
+msgid "Top10"
+msgstr "Top10"
+
+#: src/canvasesDesc.js:29
+msgid "Our main canvas, a huge map of the world. Place everywhere you like"
+msgstr ""
+"Il nostro canvas principale, una enorme mappa del mondo. Piazza onunque to "
+"voglia"
+
+#: src/canvasesDesc.js:30
+msgid ""
+"Moon canvas. Safe space for art. No flags or large text (unless part of art) "
+"or art larger than 1.5k x 1.5k pixels."
+msgstr ""
+"Canvas luna. Spazio sicuro per le art. Nessuna bandiera o testo lago (a meno "
+"che sia parte di un'art) o art più grande di 1.5kx1.5k pixel"
+
+#: src/canvasesDesc.js:31
+msgid "Place Voxels on a 3D canvas with others"
+msgstr "Piazza Voxels sul canvas 3D con altri"
+
+#: src/canvasesDesc.js:32
+msgid "Special canvas to spread awareness of SARS-CoV2"
+msgstr "Canvas speciale per sensibilizzare sul SARS-CoV2"
+
+#: src/canvasesDesc.js:33
+msgid "Mirror of PixelZone"
+msgstr "Mirror di PixelZone"
+
+#: src/canvasesDesc.js:34
+msgid "Mirror of PixelCanvas"
+msgstr "Mirror di PixelCanvas"
+
+#: src/canvasesDesc.js:35
+msgid "Black and White canvas"
+msgstr "Canvas in bianco e nero"
+
+#: src/canvasesDesc.js:36
+msgid ""
+"A canvas for the most active players from the the previous day. Daily "
+"ranking updates at 00:00 UTC."
+msgstr ""
+"Canvas per i player più attivi del giorno precedente (leggi autistici). Le "
+"classifiche giornaliere riniziano a 00:00 UTC"
+
+#: src/core/MailProvider.js:66
+#, javascript-format
+msgid "Welcome ${ name } to PixMap, please verify your mail"
+msgstr "Benvenuto ${ name } su PixMap, per favore verifica la tua mail"
+
+#: src/core/MailProvider.js:67
+msgid "Hello ${ name }"
+msgstr "Ciao ${ name }"
+
+#: src/core/MailProvider.js:68
+msgid ""
+"welcome to our little community of pixelplacers, to use your account, you "
+"have to verify your mail. You can do that here: "
+msgstr ""
+"Benvenuo alla nostra piccola community di pixelplacers, per usare il tuo "
+"account, devi verificare il tuo account mail. Lo puoi fare qui:"
+
+#: src/core/MailProvider.js:68
+msgid "Click to Verify"
+msgstr "Clicca per verificare"
+
+#: src/core/MailProvider.js:68 src/core/MailProvider.js:105
+msgid "Or by copying following url:"
+msgstr "o copia il link seguente"
+
+#: src/core/MailProvider.js:69
+msgid ""
+"Have fun and don't hesitate to contact us if you encounter any problems :)"
+msgstr "Divertiti e non esitare a contattarci se incontri dei problemi"
+
+#: src/core/MailProvider.js:70 src/core/MailProvider.js:107
+msgid "Thanks"
+msgstr "Grazie, Ave Roma"
+
+#: src/core/MailProvider.js:87
+#, javascript-format
+msgid ""
+"We already sent you a verification mail, you can request another one in "
+"${ minLeft } minutes."
+msgstr ""
+"Ti abbiamo già mandato una mail per verifica, ne puoi richiedere un'altra in "
+"${ minLeft } minuti"
+
+#: src/core/MailProvider.js:103
+msgid "You forgot your password for PixMap? Get a new one here"
+msgstr "Hai dimenticato la tua password di PixMap= Chiedine un'altra qui"
+
+#: src/core/MailProvider.js:104
+msgid "Hello"
+msgstr "Ciao"
+
+#: src/core/MailProvider.js:105
+msgid ""
+"You requested to get a new password. You can change your password within the "
+"next 30min here: "
+msgstr ""
+"Hai richiesto una nuova password. Puoi cambiare la tua password nei prossimi "
+"30 minuti qui:"
+
+#: src/core/MailProvider.js:106
+#, javascript-format
+msgid ""
+"If you did not request this mail, please just ignore it (the ip that "
+"requested this mail was ${ ip })."
+msgstr ""
+"Se non hai richiesto questa mail, per favore ignorala (l'IP che ha richiesto "
+"questa mail era ${ ip })"
+
+#: src/core/MailProvider.js:114
+msgid "Mail is not configured on the server"
+msgstr "Questa mail non è configurata sul server"
+
+#: src/core/MailProvider.js:122
+msgid ""
+"We already sent you a mail with instructions. Please wait before requesting "
+"another mail."
+msgstr ""
+"Ti abbiamo già mandato una mail con delle istruzioni. Per favore aspetta "
+"prima di richiedere un'altra mail."
+
+#: src/core/MailProvider.js:130
+msgid "Couldn't find this mail in our database"
+msgstr "Non abbiamo trovato questa mail nei nostri database"

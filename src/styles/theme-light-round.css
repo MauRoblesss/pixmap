@@ -1,0 +1,27 @@
+.channeldd, .contextmenu {
+  border-radius: 8px;
+}
+
+.window {
+  border-radius: 5px;
+}
+
+.chntop {
+  margin-top: 4px;
+}
+
+.actionbuttons, .coorbox, .onlinebox, .cooldownbox, #historyselect {
+  border-radius: 21px;
+}
+
+.modal {
+  border-radius: 21px;
+}
+
+.Alert {
+  border-radius: 12px;
+}
+
+.notifybox {
+  border-radius: 21px;
+}

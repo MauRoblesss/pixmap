@@ -1,0 +1,40 @@
+article {
+  border-style: solid;
+}
+
+article p {
+  white-space: pre-line;
+}
+
+section {
+  padding-left: 10px;
+}
+
+pre {
+  border-style: solid;
+  border-width: thin;
+  padding: 5px;
+}
+
+.gt {
+  color: green;
+}
+
+.rt {
+  color: red;
+}
+
+.vemb {
+  overflow: hidden;
+  position: relative;
+  height: 0;
+  padding-bottom: 66%;
+}
+
+.vembc {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}

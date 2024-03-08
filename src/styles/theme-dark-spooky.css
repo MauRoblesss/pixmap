@@ -1,0 +1,308 @@
+body {
+  font-weight: bold; 
+}
+
+.tab-list {
+  border-bottom: 1px solid #a50029;
+}
+
+.tab-list-item:not(.active):hover {
+  background-color: #6A8ED1;
+}
+
+.tab-list-item.active {
+  background-color: #0743B2;
+  color: #ffffff;
+  border: solid #a50029;
+}
+
+td, th {
+  border: 1px solid #f0f;
+}
+
+h2 {
+  color:#fffacd;
+  font-weight: bold;
+}
+
+h3 {
+  color: #ffc2c2;
+  font-weight: bold;
+}
+
+.win-resize {
+  color: #cbcbcb;
+}
+
+h4 {
+  color: #ffc2c2;
+  font-weight: Bold;
+  font-size: 20px;
+}
+
+.win-title {
+  border: solid #330033;
+  background-color: #b20707;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.win-title:hover {
+  background-color: #dc660e;
+}
+
+.win-topbtn {
+  border: solid #330033;
+  background-color: #827000;
+  color: white;
+}
+
+.win-topbtn:hover {
+  background-color: #92b0e8;
+}
+
+.win-topbtn.close:hover {
+  background-color: #92b0e8;
+}
+
+.contextmenu {
+  background-color: rgba(0, 0, 0);
+  border: solid;
+  color: #000;
+  box-shadow: 0 0 7px 7px rgba(0,0,0,.1);
+}
+
+.contextmenu > div {
+  background-color: #0743B2;
+  border-top: thin solid #ffffff;
+  color: #ffffff;
+}
+
+.contextmenu > div:hover {
+  background-color: #92b0e8;
+}
+
+tr:nth-child(even) {
+  background-color: #3b3618;
+}
+tr:nth-child(odd) {
+  background-color: #380a0c;
+}
+
+.channelbtn {
+  background-color: #CE0000;
+  border-color: black;
+  color: #fff;
+}
+
+.cvbtn:hover {
+  background: rgba(0,0,0,0.2); 
+}
+
+.channeldd {
+  background-color: #4b0a0a;
+}
+
+.onlinebox {
+  background-color: rgba(206, 0, 0, 0.80);
+}
+
+.cooldownbox{
+  background-color: rgba(255, 255, 255, 0.80);
+  color: black;
+}
+
+#palettebox {
+  background-color: rgb(99 16 16 / 80%);
+}
+
+.actionbuttons, .coorbox {
+  background-color: rgb(206 92 0 / 80%);
+  color: black;
+}
+
+.menu > div {
+  background-color: rgb(, 238, 255);
+}
+
+#helpbutton {
+  background-color: rgb(112 0 0 / 80%);
+  color: white;
+}
+
+#settingsbutton {
+  background-color: rgb(162 0 0 / 80%);
+}
+
+#loginbutton {
+  background-color: rgb(112 0 0 / 80%);
+  color: white;
+}
+
+#downloadbutton {
+  background-color: rgb(162 0 0 / 80%);
+}
+
+#chatbutton {
+  background-color: rgb(162 0 0 / 80%);
+  color: white;
+}
+
+#historyselect {
+  background-color: rgba(7, 67, 178, 0.80);
+  color: white;
+}
+
+#helpbutton:hover, #settingsbutton:hover, #loginbutton:hover, #downloadbutton:hover, #chatbutton:hover {
+  background-color: #ff1818f2;
+}
+
+.modal, .Alert {
+  background: rgb(68,2,2);
+  background-image: url(/pumpkin-texture.png);
+  background-size: cover;
+  color: #cb4646;
+}
+
+.window, .popup {
+  background: rgb(28,2,2);
+  background: linear-gradient(180deg, rgba(93,9,9,1) 0%, rgba(28,2,2,1) 10%, rgba(28,2,2,1) 90%, rgba(93,9,9,1) 100%);
+}
+
+.modal-content, .win-content, .popup-content {
+  font-size: 19px;
+  font-weight: bold;
+  color: #cb4646;
+}
+
+.modaldesc {
+  color: #e2e2e2;
+}
+
+
+.modaldivider {
+  background-color: hsla(300, 96%, 40%, .3); /*pink*/
+}
+
+.modallink {
+  color: #7da8ff;
+}
+
+
+.modalinfo {
+  color: #c9abab;
+  font-size: 20px;
+  font-weight: 500, bold;
+}
+
+.modalcvtext {
+  color: #e2e2e2;
+}
+
+.modal-topbtn {
+  background-color: #0743B2;
+  color: white;
+}
+
+.overlay {
+  background-color: rgba(255, 255, 204, 0.4);
+}
+
+.chatname {
+  max-width: 115px; 
+  background-color: inherit;
+}
+
+.mention {
+  background-color: #3f380f;
+}
+
+.chatts {
+  color: #b38b8b;
+}
+
+.chatmsg:hover {
+  background-color: #692a2a;
+}
+
+.msg {
+  color: #f0f0f0;
+}
+
+.msg:hover
+{
+  color: #ffffff;
+}
+
+.msg.info {
+  color: #CE0000;
+}
+
+.msg.event {
+  color: #0743B2;
+}
+
+.msg.greentext{
+  color: #00cc00;
+}
+
+.ping {
+  background-color: #EB9999;
+}
+
+.chn {
+  background-color: #CE0000;
+  border-bottom: solid bold #ff00ff;
+  padding: 3px;
+  font-size: 17px;
+}
+
+.chn.selected, .chn:hover, .channelbtn.selected, .channelbtn:hover, #sendbtn:hover {
+  background-color: #E78080;
+}
+
+#sendbtn {
+  background-color: #CE0000;
+  color: white;
+}
+
+.chntype {
+  background-color: #0743B2;
+  color: white;
+}
+
+.chntype.selected, .chntype:hover {
+  background-color: #92b0e8;
+}
+
+.statvalue {
+  color: #ff49ff;
+}
+
+.actionbuttons:hover, .menu > div:hover{
+  background-color: #ff1818f2; 
+}
+
+.coorbox:hover{
+  background-color: #FFEC80cc;
+}
+
+.onlinebox:hover{
+  background-color: #E26666cc;
+}
+
+.react-toggle-track {
+  background-color: #CE0000;
+}
+
+.react-toggle:hover:not(.react-toggle--disabled) .react-toggle-track {
+  background-color: #FFD900;
+}
+
+.react-toggle--checked .react-toggle-track {
+  background-color: #0743B2;
+}
+
+.react-toggle--checked:hover:not(.react-toggle--disabled) .react-toggle-track {
+  background-color: #FFD900;
+}

@@ -1,0 +1,474 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: src/core/ChatProvider.js:434
+msgid "You can not send chat messages with proxy"
+msgstr "Proxy-val nem küldhetsz üzenetet"
+
+#: src/core/ChatProvider.js:436
+msgid "Your country is temporary muted from this chat channel"
+msgstr "Az országod ideiglenesen némítva van ezen a chaten"
+
+#: src/core/ChatProvider.js:439
+msgid "You are permanently muted, join our guilded to appeal the mute"
+msgstr ""
+"Véglegesen némítva lettél, csatlakozz a Guilded szerverünkhöz a "
+"fellebbezéshez"
+
+#: src/core/ChatProvider.js:441
+msgid "You are banned"
+msgstr "Ki lettél tiltva"
+
+#: src/core/ChatProvider.js:443
+msgid "Your Internet Provider is banned"
+msgstr "Az internetszolgáltatód ki van tiltva"
+
+#: src/core/ChatProvider.js:448
+#, javascript-format
+msgid "You are muted for another ${ timeMin } minutes"
+msgstr "${ timeMin } percig némítva vagy"
+
+#: src/core/ChatProvider.js:450
+msgid "You are muted for another ${ ttl } seconds"
+msgstr "${ ttl } másodpercig némítva vagy"
+
+#: src/core/ChatProvider.js:467
+#, javascript-format
+msgid "You are sending messages too fast, you have to wait ${ waitTime }s :("
+msgstr ""
+"Túl gyorsan küldöd az üzeneteket, várnod kell ${ waitTime } másodpercet :("
+
+#: src/core/ChatProvider.js:471
+msgid "You don't have access to this channel"
+msgstr "Nincs hozzáférésed ehhez a csatornához"
+
+#: src/core/ChatProvider.js:488
+msgid "Your mail has to be verified in order to chat"
+msgstr ""
+"Az e-mail címednek hitelesítettnek kell lennie ahhoz, hogy írhass a chatre"
+
+#: src/core/ChatProvider.js:498
+msgid "You can't send a message this long :("
+msgstr "Nem tudsz ilyen hosszú üzenetet küldeni :("
+
+#: src/core/ChatProvider.js:502
+msgid "Please use int channel"
+msgstr "Kérjük, használd a nemzetközi csatornát"
+
+#: src/core/ChatProvider.js:510
+msgid "Stop flooding."
+msgstr "Helyedre!"
+
+#: src/routes/reset_password.js:39
+msgid "You sent an empty password or invalid data :("
+msgstr "Üres jelszót vagy érvénytelen adatokat küldtél :("
+
+#: src/routes/reset_password.js:51
+msgid "This password-reset link isn't valid anymore :("
+msgstr "Ez a jelszó-visszaállítási link már nem érvényes :("
+
+#: src/routes/reset_password.js:62
+msgid "Your passwords do not match :("
+msgstr "A jelszavak nem egyeznek :("
+
+#: src/routes/reset_password.js:77
+msgid "User doesn't exist in our database :("
+msgstr "A felhasználó nem létezik az adatbázisunkban :("
+
+#: src/routes/reset_password.js:89
+msgid "Password successfully changed."
+msgstr "Jelszó sikeresen megváltoztatva."
+
+#: src/routes/reset_password.js:108
+msgid "Invalid url :( Please check your mail again."
+msgstr "Érvénytelen link :( Kérjük, ellenőrizd újra a leveled."
+
+#: src/ssr/Globe.jsx:32
+msgid "PixMap.Fun 3DGlobe"
+msgstr "PixMap.Fun 3D földgömb"
+
+#: src/ssr/Globe.jsx:33
+msgid "A 3D globe of our whole map"
+msgstr "3D-s földgömb az egész térképünkről"
+
+#: src/ssr/Globe.jsx:46
+msgid "Double click on globe to go back."
+msgstr "Kattints duplán a földgömbre a visszatéréshez."
+
+#: src/ssr/Globe.jsx:47
+msgid "Loading..."
+msgstr "Betöltés..."
+
+#: src/ssr/PopUp.jsx:58
+msgid "pmfun"
+msgstr "pmfun"
+
+#: src/ssr/PopUp.jsx:59
+msgid "PixMap.Fun PopUp"
+msgstr "PixMap.Fun felugró"
+
+#: src/ssr/Main.jsx:67
+msgid "PixMap.Fun"
+msgstr "PixMap.Fun"
+
+#: src/ssr/Main.jsx:68
+msgid "Place color pixels on an map styled canvas with other players online"
+msgstr ""
+"Helyezz el pixeleket egy hatalmas online vásznon más játékosokkal együtt"
+
+#: src/utils/validation.js:17
+msgid "Email can't be empty."
+msgstr "Az e-mail nem lehet üres."
+
+#: src/utils/validation.js:18
+msgid "Email should be at least 5 characters long."
+msgstr "Az e-mailnek legalább 5 karakter hosszúnak kell lennie."
+
+#: src/utils/validation.js:19
+msgid "Email can't be longer than 40 characters."
+msgstr "Az e-mail cím nem lehet hosszabb 40 karakternél."
+
+#: src/utils/validation.js:20
+msgid "Email should at least contain a dot"
+msgstr "Az e-mail címnek legalább egy pontot tartalmaznia kell"
+
+#: src/utils/validation.js:22
+msgid "Email should contain a @"
+msgstr "Az e-mail címnek tartalmaznia kell egy @-t"
+
+#: src/utils/validation.js:29
+msgid "Name can't be empty."
+msgstr "A név nem lehet üres."
+
+#: src/utils/validation.js:30
+msgid "Name must be at least 2 characters long"
+msgstr "A névnek legalább 2 karakterből kell állnia"
+
+#: src/utils/validation.js:31
+msgid "Name must be shorter than 26 characters"
+msgstr "A név nem lehet hosszabb 26 karakternél"
+
+#: src/utils/validation.js:38
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "A név érvénytelen karaktereket tartalmaz mint: @, /, \\ vagy #"
+
+#: src/utils/validation.js:53
+msgid "No password given."
+msgstr "Nem lett jelszó megadva."
+
+#: src/utils/validation.js:56
+msgid "Password must be at least 6 characters long."
+msgstr "A jelszónak legalább 6 karakter hosszúságúnak kell lennie."
+
+#: src/utils/validation.js:59
+msgid "Password must be shorter than 60 characters."
+msgstr "A jelszónak 60 karakternél rövidebbnek kell lennie."
+
+#: src/ssr/PasswordReset.jsx:20 src/ssr/PasswordReset.jsx:40
+msgid "PixMap.fun Password Reset"
+msgstr "PixMap.fun jelszó megváltoztatása"
+
+#: src/ssr/PasswordReset.jsx:21 src/ssr/PasswordReset.jsx:41
+msgid "Reset your password here"
+msgstr "Jelszó visszaállítása itt"
+
+#: src/core/MailProvider.js:105 src/ssr/PasswordReset.jsx:28
+#: src/ssr/PasswordReset.jsx:49
+msgid "Reset Password"
+msgstr "Jelszó visszaállítása"
+
+#: src/ssr/PasswordReset.jsx:30 src/ssr/RedirectionPage.jsx:12
+msgid "Click here"
+msgstr "Kattints ide"
+
+#: src/ssr/PasswordReset.jsx:30
+msgid "to go back to pixmap"
+msgstr "vissza a pixmapre"
+
+#: src/ssr/PasswordReset.jsx:50
+#, javascript-format
+msgid "Hello ${ name }, you can set your new password here:"
+msgstr "Szia ${ name }, itt tudod beállítani az új jelszavadat:"
+
+#: src/ssr/PasswordReset.jsx:54
+msgid "New Password"
+msgstr "Új jelszó"
+
+#: src/ssr/PasswordReset.jsx:60
+msgid "Confirm New Password"
+msgstr "Új jelszó megerősítése"
+
+#: src/ssr/PasswordReset.jsx:65
+msgid "Submit"
+msgstr "Küldés"
+
+#: src/routes/api/modtools.js:53
+msgid "You are not logged in"
+msgstr "Nem vagy bejelentkezve"
+
+#: src/routes/api/modtools.js:65
+msgid "You are not allowed to access this page"
+msgstr "Nincs hozzáférésed ehhez az oldalhoz"
+
+#: src/routes/api/modtools.js:207
+msgid "Just admins can do that"
+msgstr "Ezt csak az adminok tehetik meg"
+
+#: src/routes/api/baninfo.js:32
+msgid "You are not banned"
+msgstr "Nem vagy kitiltva"
+
+#: src/routes/api/auth/change_mail.js:21 src/routes/api/auth/register.js:24
+msgid "This email provider is not allowed"
+msgstr "Ez az e-mail szolgáltató nem engedélyezett"
+
+#: src/routes/api/auth/register.js:31
+msgid "No Captcha given"
+msgstr "Nincs Captcha megadva"
+
+#: src/routes/api/auth/register.js:34
+msgid "E-Mail already in use."
+msgstr "Az e-mail cím már foglalt."
+
+#: src/routes/api/auth/register.js:36
+msgid "Username already in use."
+msgstr "A felhasználónév már foglalt."
+
+#: src/routes/api/auth/register.js:59
+msgid "You took too long, try again."
+msgstr "Túl sokáig próbáltad, próbáld újra."
+
+#: src/routes/api/auth/register.js:62
+msgid "You failed your captcha"
+msgstr "Nem sikerült a captcha"
+
+#: src/routes/api/auth/register.js:65
+msgid "Unknown Captcha Error"
+msgstr "Ismeretlen captcha hiba"
+
+#: src/routes/api/auth/register.js:89
+msgid "Failed to create new user :("
+msgstr "Nem sikerült új felhasználót létrehozni :("
+
+#: src/routes/api/auth/register.js:105
+msgid "Failed to establish session after register :("
+msgstr "Nem sikerült létrehozni a munkamenetet a regisztráció után :("
+
+#: src/routes/api/auth/logout.js:11
+msgid "You are not even logged in."
+msgstr "Még csak be sem vagy jelentkezve."
+
+#: src/routes/api/auth/delete_account.js:55 src/routes/api/auth/logout.js:20
+msgid "Server error when logging out."
+msgstr "Szerverhiba a kijelentkezéskor."
+
+#: src/routes/api/auth/change_mail.js:43
+#: src/routes/api/auth/change_passwd.js:34
+#: src/routes/api/auth/delete_account.js:35
+msgid "You are not authenticated."
+msgstr "Nem vagy hitelesítve."
+
+#: src/routes/api/auth/change_mail.js:52
+#: src/routes/api/auth/change_passwd.js:43
+#: src/routes/api/auth/delete_account.js:45
+msgid "Incorrect password!"
+msgstr "Hibás jelszó!"
+
+#: src/routes/api/auth/verify.js:26 src/routes/api/auth/verify.js:35
+msgid "Mail verification"
+msgstr "E-mail hitelesítés"
+
+#: src/routes/api/auth/verify.js:27
+msgid "You are now verified :)"
+msgstr "Mostantól hitelesített vagy :)"
+
+#: src/routes/api/auth/verify.js:35
+msgid ""
+"Your mail verification code is invalid or already expired :(, please request "
+"a new one."
+msgstr ""
+"A leveled hitelesítő kódja érvénytelen vagy már lejárt :(, kérj egy újat."
+
+#: src/ssr/RedirectionPage.jsx:19
+msgid "PixMap.fun Accounts"
+msgstr "PixMap.fun fiókok"
+
+#: src/ssr/RedirectionPage.jsx:29
+msgid "You will be automatically redirected after 15s"
+msgstr "Automatikusan átirányítunk 15 másodperc múlva"
+
+#: src/ssr/RedirectionPage.jsx:30
+#, javascript-format
+msgid "Or ${ clickHere } to go back to pixmap"
+msgstr "Vagy ${ clickHere } a pixmapre való visszatéréshez"
+
+#: src/canvasesDesc.js:19
+msgid "Earth"
+msgstr "Föld"
+
+#: src/canvasesDesc.js:20
+msgid "Moon"
+msgstr "Hold"
+
+#: src/canvasesDesc.js:21
+msgid "3D Canvas"
+msgstr "3D vászon"
+
+#: src/canvasesDesc.js:22
+msgid "Coronavirus"
+msgstr "Koronavírus"
+
+#: src/canvasesDesc.js:23
+msgid "PixelZone"
+msgstr "Pixelzóna"
+
+#: src/canvasesDesc.js:24
+msgid "PixelCanvas"
+msgstr "Pixelvászon"
+
+#: src/canvasesDesc.js:25
+msgid "1bit"
+msgstr "1bit"
+
+#: src/canvasesDesc.js:26
+msgid "Top10"
+msgstr "Top10"
+
+#: src/canvasesDesc.js:29
+msgid "Our main canvas, a huge map of the world. Place everywhere you like"
+msgstr "A fő vászonunk egy hatalmas világtérkép. Azt rajzolsz rá, amit akarsz"
+
+#: src/canvasesDesc.js:30
+msgid ""
+"Moon canvas. Safe space for art. No flags or large text (unless part of art) "
+"or art larger than 1.5k x 1.5k pixels."
+msgstr ""
+"Hold vászon. Biztonságos terület a művészet számára. Tiltott a zászló vagy "
+"nagyméretű szöveg (kivéve, ha az az alkotás része) vagy 1,5k x 1,5k pixelnél "
+"nagyobb rajz."
+
+#: src/canvasesDesc.js:31
+msgid "Place Voxels on a 3D canvas with others"
+msgstr "Helyezz el voxeleket egy 3D-s vászonra, másokkal együtt"
+
+#: src/canvasesDesc.js:32
+msgid "Special canvas to spread awareness of SARS-CoV2"
+msgstr "Speciális vászon a SARS-CoV2 terjesztésére"
+
+#: src/canvasesDesc.js:33
+msgid "Mirror of PixelZone"
+msgstr "A Pixelzóna tükörképe"
+
+#: src/canvasesDesc.js:34
+msgid "Mirror of PixelCanvas"
+msgstr "A Pixelvászon tükörképe"
+
+#: src/canvasesDesc.js:35
+msgid "Black and White canvas"
+msgstr "Fekete-fehér vászon"
+
+#: src/canvasesDesc.js:36
+msgid ""
+"A canvas for the most active players from the the previous day. Daily "
+"ranking updates at 00:00 UTC."
+msgstr ""
+"Az előző nap legaktívabb játékosainak vászona. A napi rangsor UTC idő "
+"szerint 00:00-kor frissül."
+
+#: src/core/MailProvider.js:66
+#, javascript-format
+msgid "Welcome ${ name } to PixMap, please verify your mail"
+msgstr ""
+"Üdvözöljük ${ név } a PixMapen, kérjük, hitelesítse az e-mail címét"
+
+#: src/core/MailProvider.js:67
+msgid "Hello ${ name }"
+msgstr "Szia ${ name }"
+
+#: src/core/MailProvider.js:68
+msgid ""
+"welcome to our little community of pixelplacers, to use your account, you "
+"have to verify your mail. You can do that here: "
+msgstr ""
+"Üdvözöljük a mi kis pixelrakó közösségünkben. Ha szeretnéd, hogy megmaradjon "
+"a fiókod, meg kell erősítened az e-mail címedet. Ezt itt teheted meg: "
+
+#: src/core/MailProvider.js:68
+msgid "Click to Verify"
+msgstr "Kattints a hitelesítéshez"
+
+#: src/core/MailProvider.js:68 src/core/MailProvider.js:105
+msgid "Or by copying following url:"
+msgstr "Vagy az alábbi link másolásával:"
+
+#: src/core/MailProvider.js:69
+msgid ""
+"Have fun and don't hesitate to contact us if you encounter any problems :)"
+msgstr ""
+"Jó szórakozást és ne felejtsd el felvenni a kapcsolatot velünk, ha bármilyen "
+"probléma merülne fel :)"
+
+#: src/core/MailProvider.js:70 src/core/MailProvider.js:107
+msgid "Thanks"
+msgstr "Köszönjük"
+
+#: src/core/MailProvider.js:87
+#, javascript-format
+msgid ""
+"We already sent you a verification mail, you can request another one in "
+"${ minLeft } minutes."
+msgstr ""
+"Már küldtünk egy hitelesítő levelet, kérhetsz másikat ${ minLeft } perc "
+"múlva."
+
+#: src/core/MailProvider.js:103
+msgid "You forgot your password for PixMap? Get a new one here"
+msgstr "Elfelejtetted a jelszavadat a PixMaphez? Itt szerezhetsz újat"
+
+#: src/core/MailProvider.js:104
+msgid "Hello"
+msgstr "Szia"
+
+#: src/core/MailProvider.js:105
+msgid ""
+"You requested to get a new password. You can change your password within the "
+"next 30min here: "
+msgstr ""
+"Új jelszót kértél. Az elkövetkezendő 30 percen belül megváltoztathatod a "
+"jelszavadat itt: "
+
+#: src/core/MailProvider.js:106
+#, javascript-format
+msgid ""
+"If you did not request this mail, please just ignore it (the ip that "
+"requested this mail was ${ ip })."
+msgstr ""
+"Ha nem Te kérted ezt a levelet, kérjük, hagyjad figyelmen kívül (az IP, aki "
+"ezt a levelet kérte, ${ ip } volt)."
+
+#: src/core/MailProvider.js:114
+msgid "Mail is not configured on the server"
+msgstr "Az e-mail cím nincs beállítva a szerveren"
+
+#: src/core/MailProvider.js:122
+msgid ""
+"We already sent you a mail with instructions. Please wait before requesting "
+"another mail."
+msgstr ""
+"Már küldtünk neked egy e-mailt az utasításokkal együtt. Kérjük, várj, "
+"mielőtt újabb levelet kérnél."
+
+#: src/core/MailProvider.js:130
+msgid "Couldn't find this mail in our database"
+msgstr "Az adatbázisunkban nem találtuk meg ezt az e-mailt"

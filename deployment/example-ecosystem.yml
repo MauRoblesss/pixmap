@@ -1,0 +1,23 @@
+apps:
+  - script     : ./server.js
+    name       : 'ppfun'
+    node_args  : --nouse-idle-notification --expose-gc
+    watch      : [ 'server.js' ]
+    watch_delay: 5000
+    env:
+      PORT: 3000
+      HOST: "127.0.0.1"
+      REDIS_URL: 'redis://localhost:6379'
+      MYSQL_HOST: "127.0.0.1"
+      MYSQL_USER: "pterodactyl"
+      MYSQL_DATABASE: "panel"
+      MYSQL_PW: "yourPassword"
+      SESSION_SECRET: "ayyylmao"
+
+      USE_XREALIP: 1
+      ADMIN_IDS: 4, 201
+
+      GUILDED_INVITE: 'https://discord.gg/pm-pixmap-1140804747834707990'
+
+      SHARD_NAME: 'scb'
+      CORS_HOSTS: 'pixmap.fun'

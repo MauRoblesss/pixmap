@@ -1,0 +1,1608 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: src/controls/keypress.js:41
+#, javascript-format
+msgid "Switched to ${ canvasName }"
+msgstr "${ canvasName } tuvaline geçildi"
+
+#: src/controls/keypress.js:64
+msgid "Grid ON"
+msgstr "Izgara Açık"
+
+#: src/controls/keypress.js:65
+msgid "Grid OFF"
+msgstr "Izgara Kapalı"
+
+#: src/controls/keypress.js:75
+msgid "Pixel Notify ON"
+msgstr "Piksel Bildirimi Açık"
+
+#: src/controls/keypress.js:76
+msgid "Pixel Notify OFF"
+msgstr "Piksel Bildirimi Kapalı"
+
+#: src/controls/keypress.js:81
+msgid "Muted Sound"
+msgstr "Ses Kapatıldı"
+
+#: src/controls/keypress.js:82
+msgid "Unmuted Sound"
+msgstr "Ses Açıldı"
+
+#: src/components/CoordinatesBox.jsx:28 src/components/GetIID.jsx:51
+#: src/controls/keypress.js:88
+msgid "Copied!"
+msgstr "Kopyalandı!"
+
+#: src/controls/keypress.js:94
+msgid "Show Hidden Canvases"
+msgstr "Gizli Tuvalleri Göster"
+
+#: src/controls/keypress.js:95
+msgid "Hide Hidden Canvases"
+msgstr "Gizli Tuvalleri Sakla"
+
+#: src/ui/PixelTransferController.js:70
+msgid "Error :("
+msgstr "Hata :("
+
+#: src/ui/PixelTransferController.js:71
+msgid "Didn't get an answer from pixmap. Maybe try to refresh?"
+msgstr "Pixmap'den yanıt alınamadı. Sayfayı yenilemeyi deneyebilirsin?"
+
+#: src/ui/PixelTransferController.js:103
+msgid "Invalid Canvas"
+msgstr "Geçersiz Tuval"
+
+#: src/ui/PixelTransferController.js:104
+msgid "This canvas doesn't exist"
+msgstr "Böyle bir tuval yok"
+
+#: src/ui/PixelTransferController.js:107 src/ui/PixelTransferController.js:111
+#: src/ui/PixelTransferController.js:115
+msgid "Invalid Coordinates"
+msgstr "Geçersiz Koordinatlar"
+
+#: src/ui/PixelTransferController.js:108
+msgid "x out of bounds"
+msgstr "x sınırların dışında"
+
+#: src/ui/PixelTransferController.js:112
+msgid "y out of bounds"
+msgstr "y sınıralrın dışında"
+
+#: src/ui/PixelTransferController.js:116
+msgid "z out of bounds"
+msgstr "z sınırların dışında"
+
+#: src/ui/PixelTransferController.js:119
+msgid "Wrong Color"
+msgstr "Yanlış Renk"
+
+#: src/ui/PixelTransferController.js:120
+msgid "Invalid color selected"
+msgstr "Geçersiz renk seçildi"
+
+#: src/ui/PixelTransferController.js:123
+msgid "Just for registered Users"
+msgstr "Sadece giriş yapmış üyeler için"
+
+#: src/ui/PixelTransferController.js:124
+msgid "You have to be logged in to place on this canvas"
+msgstr "Bu tuvalde piksel atabilmek için giriş yapman gerekiyor"
+
+#: src/ui/PixelTransferController.js:127
+msgid "Place more :)"
+msgstr "Biraz daha piksel at :)"
+
+#: src/ui/PixelTransferController.js:129
+msgid "You can not access this canvas yet. You need to place more pixels"
+msgstr "Henüz bu canvasa erişimin"
+
+#: src/ui/PixelTransferController.js:132
+msgid "Pixel protected!"
+msgstr "Piksel korunuyor!"
+
+#: src/ui/PixelTransferController.js:139
+msgid "Please prove that you are human"
+msgstr "Lütfen insan olduğunu kanıtla"
+
+#: src/ui/PixelTransferController.js:143
+msgid "No Proxies Allowed :("
+msgstr "Proxylere İzin Verilmiyor :("
+
+#: src/ui/PixelTransferController.js:144
+msgid "You are using a Proxy."
+msgstr "Proxy kullanıyorsun."
+
+#: src/ui/PixelTransferController.js:147
+msgid "Not allowed"
+msgstr "İzin yok"
+
+#: src/ui/PixelTransferController.js:148
+msgid "Just the Top10 of yesterday can place here"
+msgstr "Sadece dünün en iyi 10 oyuncusu buraya piksel atabilir"
+
+#: src/ui/PixelTransferController.js:151
+msgid "You are weird"
+msgstr "Garipsin"
+
+#: src/ui/PixelTransferController.js:153
+msgid ""
+"Server got confused by your pixels. Are you playing on multiple devices?"
+msgstr ""
+"Piksellerin sunucunun kafasını karıştırdı. Birden fazla cihazda mı "
+"oynuyorsun?"
+
+#: src/ui/PixelTransferController.js:156
+msgid "Banned"
+msgstr "Banlandı"
+
+#: src/ui/PixelTransferController.js:160
+msgid "Range Banned"
+msgstr "Alan banlandı"
+
+#: src/ui/PixelTransferController.js:161
+msgid "Your Internet Provider is banned from playing this game"
+msgstr "İnternet sağlayıcın oyundan banlandı"
+
+#: src/ui/PixelTransferController.js:164
+msgid "Timeout"
+msgstr "Zaman aşımı"
+
+#: src/ui/PixelTransferController.js:166
+msgid ""
+"Didn't get an answer from pixmap. Maybe try to refresh if problem "
+"persists?"
+msgstr ""
+"Pixmap'den yanıt alınamadı. Problem devam ediyorsa sayfayı yenilemeyi "
+"deneyebilirsin."
+
+#: src/ui/PixelTransferController.js:169
+msgid "Weird"
+msgstr "Garip"
+
+#: src/ui/PixelTransferController.js:170
+msgid "Couldn't set Pixel"
+msgstr "Piksel ayarlanamadı"
+
+#: src/ui/PixelTransferController.js:175
+#, javascript-format
+msgid "Error ${ retCode }"
+msgstr "Hata ${ retCode }"
+
+#: src/ui/rendererFactory.js:30
+msgid "Canvas Error"
+msgstr "Tuval Hatası"
+
+#: src/ui/rendererFactory.js:31
+msgid "Can't render 3D canvas, do you have WebGL2 disabled?"
+msgstr "3 boyutlu tuval işlenemedi, WebGL2 devre dışı mı?"
+
+#: src/components/BanInfo.jsx:136 src/store/actions/index.js:7
+msgid "OK"
+msgstr "Tamam"
+
+#: src/store/actions/fetch.js:55
+msgid "You made too many requests"
+msgstr "Çok fazla istek gönderdin"
+
+#: src/store/actions/fetch.js:59
+#, javascript-format
+msgid "try again after ${ ti }min"
+msgstr "${ ti }min sonra tekrar deneyin"
+
+#: src/store/actions/fetch.js:70
+msgid "Connection error ${ code } :("
+msgstr "Bağlantı hatası ${ code } :("
+
+#: src/store/actions/fetch.js:103 src/store/actions/fetch.js:129
+msgid "Could not connect to server, please try again later :("
+msgstr "Sunucuya bağlanılamadı, lütfen tekrar deneyin :("
+
+#: src/store/actions/fetch.js:151 src/store/actions/fetch.js:170
+#: src/store/actions/fetch.js:189 src/store/actions/fetch.js:208
+#: src/store/actions/fetch.js:227
+msgid "Unknown Error"
+msgstr "Bilinmeyen Hata"
+
+#: src/store/actions/fetch.js:237
+msgid "Server answered with gibberish :("
+msgstr "Sunucu anlamsız cevap verdi :("
+
+#: src/store/middleware/notifications.js:33
+msgid "Your next pixels are ready"
+msgstr "Sıradaki piksellerin hazır"
+
+#: src/store/middleware/notifications.js:37
+msgid "You can now place more on pixmap.fun :)"
+msgstr "Artık pixmap.fun'da daha fazla piksel atabilirsin :)"
+
+#: src/store/middleware/notifications.js:54
+msgid "mentioned you"
+msgstr "senden bahsetti"
+
+#: src/store/middleware/notifications.js:58
+msgid "You have new messages in chat"
+msgstr "Sohbette yeni mesajların var"
+
+#: src/components/Converter.jsx:561 src/components/CoordinatesBox.jsx:31
+#: src/components/ModWatchtools.jsx:371
+msgid "Copy to Clipboard"
+msgstr "Panoya kopyala"
+
+#: src/components/OnlineBox.jsx:40
+msgid "Online Users on Canvas"
+msgstr "Tuvaldeki çevrimiçi oyuncular"
+
+#: src/components/OnlineBox.jsx:47
+msgid "Total Online Users"
+msgstr "Toplam Çevrimiçi Oyuncu"
+
+#: src/components/OnlineBox.jsx:55
+msgid "Pixels placed"
+msgstr "Atılan Pikseller"
+
+#: src/components/buttons/CanvasSwitchButton.jsx:20
+#: src/components/windows/index.js:19
+msgid "Canvas Selection"
+msgstr "Tuval Seçimi"
+
+#: src/components/buttons/ChatButton.jsx:88
+msgid "Close Chat"
+msgstr "Sohbeti Kapat"
+
+#: src/components/buttons/ChatButton.jsx:88
+msgid "Open Chat"
+msgstr "Sohbeti Aç"
+
+#: src/components/buttons/ExpandMenuButton.jsx:22
+msgid "Close Menu"
+msgstr "Menüyü Kapat"
+
+#: src/components/buttons/ExpandMenuButton.jsx:22
+msgid "Open Menu"
+msgstr "Menüyü Aç"
+
+#: src/components/HistorySelect.jsx:144
+msgid "Loading"
+msgstr "Yükleniyor"
+
+#: src/components/HistorySelect.jsx:145
+msgid "Select Date above"
+msgstr "Tarih Giriniz"
+
+#: src/components/Admintools.jsx:103 src/components/ModCanvastools.jsx:222
+#: src/components/ModWatchtools.jsx:118 src/components/Window.jsx:157
+#: src/components/Window.jsx:260
+#: src/components/contextmenus/ChannelContextMenu.jsx:59
+msgid "Close"
+msgstr "Kapat"
+
+#: src/components/Window.jsx:173
+msgid "PopUp"
+msgstr "PopUp"
+
+#: src/components/Window.jsx:184
+msgid "Restore"
+msgstr "Yenile"
+
+#: src/components/Window.jsx:221
+msgid "Clone"
+msgstr "Klon"
+
+#: src/components/Window.jsx:229
+msgid "Move"
+msgstr "Taşı"
+
+#: src/components/Window.jsx:252
+msgid "Maximize"
+msgstr "Maksimize Et"
+
+#: src/components/Window.jsx:268
+msgid "Resize"
+msgstr "Yeniden Boyutlandır"
+
+#: src/components/buttons/GlobeButton.jsx:34
+msgid "Globe View"
+msgstr "Küresel Görünüm"
+
+#: src/components/buttons/PalselButton.jsx:30
+msgid "Close Palette"
+msgstr "Paleti Kapat"
+
+#: src/components/buttons/PalselButton.jsx:30
+msgid "Open Palette"
+msgstr "Paleti Aç"
+
+#: src/components/buttons/SettingsButton.jsx:21
+#: src/components/windows/index.js:14
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: src/components/BanInfo.jsx:75 src/components/buttons/HelpButton.jsx:20
+#: src/components/windows/index.js:13
+msgid "Help"
+msgstr "Yardım"
+
+#: src/components/buttons/LogInButton.jsx:20 src/components/windows/index.js:15
+msgid "User Area"
+msgstr "Kullanıcı Alanı"
+
+#: src/components/buttons/DownloadButton.jsx:36
+msgid "Make Screenshot"
+msgstr "Ekran Görüntüsü Al"
+
+#: src/components/windows/index.js:16
+msgid "Registration"
+msgstr "Üyelik"
+
+#: src/components/windows/index.js:17
+msgid "Forgot Password"
+msgstr "Parolayı Unut"
+
+#: src/components/windows/index.js:18
+msgid "Chat"
+msgstr "Sohbet"
+
+#: src/components/windows/index.js:20
+msgid "Canvas Archive"
+msgstr "Tuval Arşivi"
+
+#: src/components/GlobalCaptcha.jsx:47
+msgid "You took too long, try again."
+msgstr "Çözmen fazla uzun sürdü, tekrar dene."
+
+#: src/components/GlobalCaptcha.jsx:50
+msgid "You failed your captcha"
+msgstr "Captcha'yı yanlış çözdün"
+
+#: src/components/GlobalCaptcha.jsx:53
+msgid "No or invalid captcha text"
+msgstr "Olmayan veya yanlış captcha metni"
+
+#: src/components/GlobalCaptcha.jsx:56
+msgid "No captcha id given"
+msgstr "Captcha kimliği verilmedi"
+
+#: src/components/GlobalCaptcha.jsx:59
+msgid "Unknown Captcha Error"
+msgstr "Bilinmeyen Captcha Hatası"
+
+#: src/components/BanInfo.jsx:80 src/components/Captcha.jsx:77
+#: src/components/ChangeMail.jsx:72 src/components/ChangeName.jsx:58
+#: src/components/ChangePassword.jsx:79 src/components/DeleteAccount.jsx:55
+#: src/components/GlobalCaptcha.jsx:71 src/components/LogInForm.jsx:70
+#: src/components/windows/ForgotPassword.jsx:73
+#: src/components/windows/Register.jsx:89
+msgid "Error"
+msgstr "Hata"
+
+#: src/components/ChangeMail.jsx:93 src/components/ChangeName.jsx:70
+#: src/components/ChangePassword.jsx:115 src/components/DeleteAccount.jsx:68
+#: src/components/GlobalCaptcha.jsx:80
+#: src/components/windows/ForgotPassword.jsx:89
+#: src/components/windows/Register.jsx:133
+msgid "Cancel"
+msgstr "İptal Et"
+
+#: src/components/GlobalCaptcha.jsx:86
+msgid "Send"
+msgstr "Gönder"
+
+#: src/components/BanInfo.jsx:66
+msgid "You are banned. You think it is unjustified? Check out the "
+msgstr "Banlandın. Adil olmadığını mı düşünüyorsun? "
+
+#: src/components/BanInfo.jsx:76
+msgid " on how to appeal."
+msgstr " sayfasını kontrol et."
+
+#: src/components/BanInfo.jsx:85 src/components/ModIIDtools.jsx:73
+msgid "Reason"
+msgstr "Sebep"
+
+#: src/components/BanInfo.jsx:91
+msgid "By Mod"
+msgstr "Moderatör"
+
+#: src/components/BanInfo.jsx:97 src/components/ModIIDtools.jsx:84
+msgid "Duration"
+msgstr "Süre"
+
+#: src/components/BanInfo.jsx:99
+msgid "Your ban expires at "
+msgstr "Banın şu zaman açılıyor "
+
+#: src/components/BanInfo.jsx:101
+msgid " which is in "
+msgstr " yani kanal süre"
+
+#: src/components/BanInfo.jsx:112
+msgid "Unbanned"
+msgstr "Ban kaldırıldı"
+
+#: src/components/BanInfo.jsx:113
+msgid "Now that you have seen this message, you are no longer banned."
+msgstr "Bu mesajı gördüğünüze göre artık banlı değilsiniz."
+
+#: src/components/BanInfo.jsx:127
+msgid "Why?"
+msgstr "Neden?"
+
+#: src/components/windows/Settings.jsx:86
+msgid "Show Grid"
+msgstr "Izgarayı Göster"
+
+#: src/components/windows/Settings.jsx:91
+msgid "Turn on grid to highlight pixel borders."
+msgstr "Pikselleri ayrı olarak göstermek için aralarına sınır koyar."
+
+#: src/components/windows/Settings.jsx:94
+msgid "Show Pixel Activity"
+msgstr "Piksel Aktifliğini Gör"
+
+#: src/components/windows/Settings.jsx:99
+msgid "Show circles where pixels are placed."
+msgstr ""
+"Diğer oyuncuların piksel attığı yerde etrafa kırmızı bir daire yayılmasını "
+"sağlar."
+
+#: src/components/windows/Settings.jsx:102
+msgid "Disable Game Sounds"
+msgstr "Oyun Seslerini Kapat"
+
+#: src/components/windows/Settings.jsx:108
+msgid "All sound effects will be disabled."
+msgstr "Tüm ses efektleri devre dışı bırakır."
+
+#: src/components/windows/Settings.jsx:112
+msgid ""
+"Your Browser doesn't allow us to use AudioContext to play sounds. Do you "
+"have some privacy feature blocking us?"
+msgstr ""
+"Tarayıcınız ses oynatmamız için AudioContext'i kullanmamıza izin vermiyor. "
+"Bizi engelleyen bir gizlilik özelliğiniz mi var?"
+
+#: src/components/windows/Settings.jsx:118
+msgid "Enable chat notifications"
+msgstr "Sohbet Bildirimlerini Aç"
+
+#: src/components/windows/Settings.jsx:122
+msgid "Play a sound when new chat messages arrive"
+msgstr "Yeni mesajlar atıldığı zaman bildirim gelmesini sağlar."
+
+#: src/components/windows/Settings.jsx:125
+msgid "Auto Zoom In"
+msgstr "Otomatik Yakınlaştırma"
+
+#: src/components/windows/Settings.jsx:130
+msgid ""
+"Zoom in instead of placing a pixel when you tap the canvas and your zoom is "
+"small."
+msgstr ""
+"Bir yere tıkladığınız zaman eğer uzaklaştırılmışsa piksel atmak yerine "
+"yakınlaştırır."
+
+#: src/components/windows/Settings.jsx:133
+msgid "Compact Palette"
+msgstr "Sıkı Palet"
+
+#: src/components/windows/Settings.jsx:138
+msgid "Display Palette in a compact form that takes less screen space."
+msgstr "Ekranda daha fazla yer açmak için paleti dörtgen haline getirir."
+
+#: src/components/windows/Settings.jsx:141
+msgid "Potato Mode"
+msgstr "Patates Modu"
+
+#: src/components/windows/Settings.jsx:145
+msgid "For when you are playing on a potato."
+msgstr "Eğer patates ile oynuyorsanız seçin."
+
+#: src/components/Converter.jsx:376 src/components/windows/Settings.jsx:148
+msgid "Light Grid"
+msgstr "Beyaz Izgara"
+
+#: src/components/windows/Settings.jsx:152
+msgid "Show Grid in white instead of black."
+msgstr "Izgarayı siyah yerine beyaz olarak gösterir."
+
+#: src/components/windows/Settings.jsx:156
+msgid "Historical View"
+msgstr "Geçmiş Görünümü"
+
+#: src/components/windows/Settings.jsx:161
+msgid "Check out past versions of the canvas."
+msgstr "Tuvalin eskiden nasıl göründüğünü gösterir."
+
+#: src/components/windows/Settings.jsx:166
+msgid "Themes"
+msgstr "Temalar"
+
+#: src/components/windows/Settings.jsx:171
+msgid "How pixmap should look like."
+msgstr "Oyunun temasını değiştirir."
+
+#: src/components/windows/Settings.jsx:178
+msgid "Select Language"
+msgstr "Dil Seç"
+
+#: src/components/windows/Help.jsx:42
+msgid "Place color pixels on a large canvas with other players online!"
+msgstr ""
+"Diğer oyuncularla beraber devasa dünya haritasına renkli pikseller atın!"
+
+#: src/components/windows/Help.jsx:43
+msgid ""
+"Our main canvas is a huge worldmap, you can place wherever you like, but you "
+"will have to wait a specific Cooldown between pixels. You can check out the "
+"cooldown and requirements on the Canvas Selection menu (globe button on "
+"top). Some canvases have a different cooldown for replacing a user-set "
+"pixels than placing on a unset pixel. i.e. 4s/7s means 4s on fresh pixels "
+"and 7s on already set pixels."
+msgstr ""
+"Ana tuvalimiz devasa bir dünya haritası, nereye isterseniz piksel "
+"atabilirsiniz ancak piksel atarken tuvalin bekleme süresini beklemeniz "
+"gerekiyor. Ekranın yukarısındaki \"Tuval Seçimi\" menüsünden bekleme "
+"süresini ve gereksinimlere göz atabilirsin. Bazı tuvaller dokunulmamış "
+"pikseller ve dokunulmuş piksellere farklı bekleme süreleri tanımlayabilir. "
+"Örneğin 4s/7s dokunulmamış piksellere 4 saniye, dokunulmuş piksellere ise 7 "
+"saniye demektir."
+
+#: src/components/windows/Help.jsx:47
+msgid ""
+"Higher zoomlevels take some time to update, the 3D globe gets updated at "
+"least once per day."
+msgstr ""
+"Tuvale uzaktan bakarken görüntünün güncellenmesi zaman alabilir. Küresel "
+"görünüm ise günde bir kere güncellenir."
+
+#: src/components/windows/Help.jsx:48
+msgid "Have fun!"
+msgstr "İyi eğlenceler!"
+
+#: src/components/windows/Help.jsx:50
+msgid "recommended"
+msgstr "tavsiye edilir"
+
+#: src/components/windows/Help.jsx:51
+msgid "Source on "
+msgstr "Veri Kaynağı: "
+
+#: src/components/windows/Help.jsx:52
+msgid "Map Data"
+msgstr "Harita Verisi"
+
+#: src/components/windows/Help.jsx:53
+msgid ""
+"The bare map data that we use, together with converted OpenStreetMap tiles "
+"for orientation, can be downloaded from mega.nz here: "
+msgstr ""
+"Kullandığımız sade harita verisi OpenStreetMap fayansları ile oryantasyon "
+"için dönüştürüldü, bu mega.nz bağlantısı ile indirilebilir: "
+
+#: src/components/windows/Help.jsx:55
+msgid "Banned? Detected as Proxy?"
+msgstr "Banlısın? Proxy olarak mı işaretlendin?"
+
+#: src/components/windows/Help.jsx:57
+#, javascript-format
+msgid ""
+"If you got detected as proxy, but you are none, or think that you got "
+"wrongfully banned, please go to our ${ guildedLink } or send us an e-mail to "
+"${ mailLink } and include the following IID:"
+msgstr ""
+"Proxy olarak işaretlendiysen ve değilsen veya yanlış sebeple banlandığını "
+"düşünüyorsan lütfen ${ guildedLink } sunucumuza git veya ${ mailLink } "
+"adresine aşağıdaki IID'yi içeren bir posta gönder:"
+
+#: src/components/windows/Help.jsx:60 src/components/windows/Help.jsx:77
+msgid "Controls"
+msgstr "Kontroller"
+
+#: src/components/windows/Help.jsx:62
+msgid "Click a color in palette to select it"
+msgstr "Bir renk seçmek istediğin paletteki istediğin renge tıkla"
+
+#: src/components/windows/Help.jsx:63
+#, javascript-format
+msgid "Press ${ bindG } to toggle grid"
+msgstr "Piksel aktifliğini görebilmek için ${ bindG } tuşuna basın"
+
+#: src/components/windows/Help.jsx:64
+msgid "Press ${ bindX } to toggle showing of pixel activity"
+msgstr ""
+"Diğer kullanıcıların attığı pikselleri görebilmek için ${ bindX } tuşuna "
+"basın"
+
+#: src/components/windows/Help.jsx:65
+#, javascript-format
+msgid "Press ${ bindH } to toggle historical view"
+msgstr "Tuvalin geçmişteki görünümünü görmek için ${ bindH } tuşuna basın"
+
+#: src/components/windows/Help.jsx:66
+msgid "Press ${ bindR } to copy coordinates"
+msgstr "Koordinatları kopyalamak için ${ bindR } tuşuna basın"
+
+#: src/components/windows/Help.jsx:67
+#, javascript-format
+msgid "Press ${ bindQ } or ${ bindE } to zoom"
+msgstr ""
+"${ bindQ } veya ${ bindE } tuşuna basarak tuvalden uzaklaşın veya tuvale "
+"yaklaşın"
+
+#: src/components/windows/Help.jsx:68 src/components/windows/Help.jsx:79
+#, javascript-format
+msgid "Press ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } to move"
+msgstr ""
+"${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } tuşları ile tuvalde gezinin"
+
+#: src/components/windows/Help.jsx:69 src/components/windows/Help.jsx:80
+#, javascript-format
+msgid ""
+"Press ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } to move"
+msgstr ""
+"${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } tuşları ile "
+"tuvalde gezinin"
+
+#: src/components/windows/Help.jsx:70
+msgid "Drag ${ mouseSymbol } mouse or ${ touchSymbol } pan to move"
+msgstr ""
+"Farenizi basılı tutup kaydırarak ${ mouseSymbol } veya ${ touchSymbol } "
+"ekrana basılı tutup hareket ederek tuvalde gezinin"
+
+#: src/components/windows/Help.jsx:71
+#, javascript-format
+msgid "Scroll ${ mouseSymbol } mouse wheel or ${ touchSymbol } pinch to zoom"
+msgstr ""
+"Farenizin  tekerleğini ${ mouseSymbol } döndürerek veya ${ touchSymbol } iki "
+"parmağınızı kullanarak ile yakınlaşın veya uzaklaşın"
+
+#: src/components/windows/Help.jsx:72
+msgid "Hold left ${ bindShift } for placing while moving mouse"
+msgstr ""
+"Sol ${ bindShift } tuşuna basılı tutarken farenizi hareket ettirerek piksel "
+"atın"
+
+#: src/components/windows/Help.jsx:73
+#, javascript-format
+msgid ""
+"Hold right ${ bindShift } for placing while moving mouse according to "
+"historical view"
+msgstr ""
+"Sağ ${ bindShift } tuşuna basılı tutarken farenizi hareket ettirerek geçmiş "
+"görünümüne göre piksel atın"
+
+#: src/components/windows/Help.jsx:74 src/components/windows/Help.jsx:85
+#, javascript-format
+msgid "${ mouseSymbol } Left click or ${ touchSymbol } tap to place a pixel"
+msgstr ""
+"${ mouseSymbol } Farenizin sol tuşuna basarak veya ${ touchSymbol } ekrana "
+"tıklayarak piksel atın"
+
+#: src/components/windows/Help.jsx:75 src/components/windows/Help.jsx:87
+msgid ""
+"Click ${ mouseSymbol } middle mouse button or ${ touchSymbol } long-tap to "
+"select current hovering color"
+msgstr ""
+"Farenizin tekerleğine ${ mouseSymbol } tıklayarak veya ${ touchSymbol } "
+"ekrana basılı tutarak orada bulunan pikselin rengini kopyalayın"
+
+#: src/components/windows/Help.jsx:81
+msgid "Press ${ bindE } and ${ bindC } to fly up and down"
+msgstr "${ bindE } veya ${ bindC }'ye tıklayarak yükselin ve alçalın"
+
+#: src/components/windows/Help.jsx:82
+#, javascript-format
+msgid "${ mouseSymbol } Hold left mouse button and drag mouse to rotate"
+msgstr ""
+"${ mouseSymbol } Farenizin sol tuşuna basılı tutup farenizi kaydırarak "
+"gezinin"
+
+#: src/components/windows/Help.jsx:83
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Scroll mouse wheel or hold ${ mouseSymbol } middle mouse "
+"button and drag to zoom"
+msgstr ""
+"${ mouseSymbol } Fare tekerleğini döndürerek uzaklaştırın veya yakınlaştırın"
+
+#: src/components/windows/Help.jsx:84
+msgid "${ mouseSymbol } Right click and drag mouse to pan"
+msgstr ""
+"${ mouseSymbol } Sağ tuşuna basılı tutup farenizi hareket ettirerek "
+"baktığınız konumu kaydırın"
+
+#: src/components/windows/Help.jsx:86
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Right click or ${ touchSymbol } double-tap to remove a pixel"
+msgstr ""
+"${ mouseSymbol } Farenizin sağ tuşuyla veya ${ touchSymbol } çift tıklayarak "
+"bir pikseli kaldırın"
+
+#: src/components/windows/Help.jsx:91
+msgid ""
+"We thanks those artists very much, they offered their palettes to the public "
+"on"
+msgstr ""
+"Buradaki sanatçılara çok teşekkür ederiz, paletlerini herkesin kullanımına "
+"sunuyorlar"
+
+#: src/components/windows/Help.jsx:94
+#, javascript-format
+msgid "Credit for the Palette of the Moon goes to ${ starhouseLink }."
+msgstr "Ay paletinin sahibi ${ starhouseLink }'dur."
+
+#: src/components/windows/Help.jsx:97
+msgid "Credit for the Palette of the Top10 canvas goes to ${ vinikLink }."
+msgstr "Top10 paletinin sahibi ${ vinikLink }'dir."
+
+#: src/components/windows/UserArea.jsx:36
+#: src/components/windows/UserArea.jsx:56
+msgid "Profile"
+msgstr "Profil"
+
+#: src/components/windows/UserArea.jsx:59
+msgid "Statistics"
+msgstr "İstatistikler"
+
+#: src/components/windows/UserArea.jsx:64
+msgid "Converter"
+msgstr "Dönüştürücü"
+
+#: src/components/windows/UserArea.jsx:70
+msgid "Modtools"
+msgstr "Mod Araçları"
+
+#: src/components/windows/UserArea.jsx:71
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+#: src/components/windows/UserArea.jsx:78
+msgid "Consider joining us on Guilded:"
+msgstr "Eğer Guilded üzerinden bize katılmak isterseniz:"
+
+#: src/components/windows/Register.jsx:87
+msgid "Register new account here"
+msgstr "Yeni Hesap Oluşturun"
+
+#: src/components/windows/Register.jsx:92
+#: src/components/windows/Register.jsx:98
+msgid "Name"
+msgstr "Kullanıcı Adı"
+
+#: src/components/windows/ForgotPassword.jsx:80
+#: src/components/windows/Register.jsx:100
+#: src/components/windows/Register.jsx:106
+msgid "Email"
+msgstr "E-Posta Adresi"
+
+#: src/components/ChangeMail.jsx:80 src/components/DeleteAccount.jsx:62
+#: src/components/LogInForm.jsx:84 src/components/windows/Register.jsx:108
+#: src/components/windows/Register.jsx:114
+msgid "Password"
+msgstr "Parola"
+
+#: src/components/windows/Register.jsx:116
+#: src/components/windows/Register.jsx:122
+msgid "Confirm Password"
+msgstr "Parolayı Onayla"
+
+#: src/components/windows/Register.jsx:124
+msgid "Captcha"
+msgstr "Captcha"
+
+#: src/components/Admintools.jsx:154 src/components/Admintools.jsx:238
+#: src/components/ModCanvastools.jsx:302 src/components/ModCanvastools.jsx:382
+#: src/components/ModCanvastools.jsx:455 src/components/ModCanvastools.jsx:546
+#: src/components/ModIIDtools.jsx:135
+#: src/components/windows/ForgotPassword.jsx:84
+#: src/components/windows/Register.jsx:127
+msgid "Submit"
+msgstr "Onayla"
+
+#: src/components/windows/CanvasSelect.jsx:29
+msgid ""
+"Select the canvas you want to use.  Every canvas is unique and has different "
+"palettes, cooldown and requirements.  Archive of closed canvases can be "
+"accessed here:"
+msgstr ""
+"Oynamak istediğin tuvali buradan seçebilirsin. Her tuval farklıdır ve "
+"değişik renk paletlerine, bekleme sürelerine ve gereksinimlere sahiptir. "
+"Kapatılmış tuvallerin arşivine buradan ulaşabilirsiniz:"
+
+#: src/components/windows/CanvasSelect.jsx:37
+msgid "Archive"
+msgstr "Arşiv"
+
+#: src/components/windows/Archive.jsx:16
+msgid ""
+"While we tend to not delete canvases, some canvases are started for fun or "
+"as a request by users who currently like a meme. Those canvases can get "
+"boring after a while and after weeks of no major change and if they really "
+"aren't worth being kept active, we decide to remove them."
+msgstr ""
+"Bazı tuvaller eğlence amaçlı başlar ve oyuncular tarafından büyük ilgi "
+"görür. Bu tuvaller bir süre sonra sıkıcı olmaya başlar ve daha az oynanır, "
+"böyle olduğu zaman tuvalleri devre dışı bırakırız. Devre dışı bıraktığımız "
+"tuvalleri silmek yerine onları burada arşivleriz."
+
+#: src/components/windows/Archive.jsx:18
+msgid ""
+"Here we collect those canvases to archive them in a proper way (which is "
+"currently just one)."
+msgstr ""
+"İşte burada tuvalleri oldukları gibi arşivliyoruz (şimdilik sadece bir tane "
+"arşivlenmiş tuvalimiz var)."
+
+#: src/components/windows/Archive.jsx:20
+msgid "Political Compass Canvas"
+msgstr "Siyasi Pusula Tuvali"
+
+#: src/components/windows/Archive.jsx:27
+msgid ""
+"This canvas got requested during a time of political conflicts on the main "
+"Earth canvas. It was a 1024x1024 representation of the political compass "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
+"remained active for months till it got shut down on November 30th."
+msgstr ""
+"Bu tuval, Dünya tuvalinde siyasi tartışmaların çokça yaşandığı bir vakitte "
+"çıkarıldı. 1024 piksele 1024 piksellik bir siyasi pusula tuvaliydi, bir "
+"pikselin bekleme süresi 5 saniye olup 60 saniyeye kadar "
+"biriktirilebiliyordu. 11 Mayıstan başladı ve 30 Kasımda kapatılana kadar "
+"aylarca aktif olarak oynandı."
+
+#: src/components/windows/Archive.jsx:28
+msgid ""
+"We decided to archive it as a timelapse with lossless encoded webm. Taking a "
+"screenshot from the timelapse results in a perfect 1:1 representation of how "
+"the canvas was at that time."
+msgstr ""
+"Hızlandırılmış halini kayıpsız bir şekilde encode yaparak webm video "
+"formatında arşivledik. Bu videodan alınan görüntüler 1:1 oranda kusursuz bir "
+"şekildedir."
+
+#: src/components/windows/ForgotPassword.jsx:58
+msgid "Sent you a mail with instructions to reset your password."
+msgstr ""
+"Parolanızı değiştirmeniz için talimatlar içeren bir e-posta gönderildi."
+
+#: src/components/windows/ForgotPassword.jsx:69
+msgid "Enter your mail address and we will send you a new password:"
+msgstr ""
+"E-Posta adresinizi giriniz, ardından size yeni bir parola göndereceğiz:"
+
+#: src/components/windows/Chat.jsx:180
+msgid "Start chatting here"
+msgstr "Buradan sohbete katılın"
+
+#: src/components/windows/Chat.jsx:217
+msgid "Chat here"
+msgstr "Burada sohbet edilin"
+
+#: src/components/windows/Chat.jsx:243
+msgid "You must be logged in to chat"
+msgstr "Sohbete katılmak için giriş yapmalısınız"
+
+#: src/components/windows/Chat.jsx:273
+msgid "Channel settings"
+msgstr "Kanal ayarları"
+
+#: src/components/Captcha.jsx:51 src/components/Captcha.jsx:105
+msgid "Could not load captcha"
+msgstr "Captcha yüklenilemedi"
+
+#: src/components/Captcha.jsx:69
+msgid "Type the characters from the following image:"
+msgstr "Resimdeki harfleri yazınız:"
+
+#: src/components/Captcha.jsx:72
+msgid "Tip: Not case-sensitive; I and l are the same"
+msgstr "Tavsiye: Büyük/küçük harfe duyarlı değil. l ve I aynı"
+
+#: src/components/Captcha.jsx:114
+msgid "Load Captcha"
+msgstr "Captcha Yükle"
+
+#: src/components/Captcha.jsx:119
+msgid "Click to Load Captcha"
+msgstr "Captcha Yüklemek İçin Tıklayınız"
+
+#: src/components/Captcha.jsx:124
+msgid "Can't read? Reload:"
+msgstr "Okuyamıyor musun? Yenile:"
+
+#: src/components/Captcha.jsx:128
+msgid "Reload"
+msgstr "Yenile"
+
+#: src/components/Captcha.jsx:138
+msgid "Enter Characters"
+msgstr "Harfleri Gir"
+
+#: src/utils/validation.js:17
+msgid "Email can't be empty."
+msgstr "E-Posta boş olamaz."
+
+#: src/utils/validation.js:18
+msgid "Email should be at least 5 characters long."
+msgstr "E-Posta en az 5 harften oluşmalıdır."
+
+#: src/utils/validation.js:19
+msgid "Email can't be longer than 40 characters."
+msgstr "E-Posta 40 harften uzun olamaz."
+
+#: src/utils/validation.js:20
+msgid "Email should at least contain a dot"
+msgstr "E-Posta içerisinde en az bir nokta bulundurur"
+
+#: src/utils/validation.js:22
+msgid "Email should contain a @"
+msgstr "E-Posta içerisinde @ bulundurur"
+
+#: src/utils/validation.js:29
+msgid "Name can't be empty."
+msgstr "Kullanıcı adı boş bırakılamaz."
+
+#: src/utils/validation.js:30
+msgid "Name must be at least 2 characters long"
+msgstr "Kullanıcı adı en az 2 harften oluşmalıdır"
+
+#: src/utils/validation.js:31
+msgid "Name must be shorter than 26 characters"
+msgstr "Kullanıcı adı en fazla 26 harften oluşmak zorundadır"
+
+#: src/utils/validation.js:38
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Kullanıcı adı @, /, \\ veya # gibi geçersiz bir karakter kullanıyor"
+
+#: src/utils/validation.js:53
+msgid "No password given."
+msgstr "Parola girilmedi."
+
+#: src/utils/validation.js:56
+msgid "Password must be at least 6 characters long."
+msgstr "Parola en az 6 harften oluşmalıdır."
+
+#: src/utils/validation.js:59
+msgid "Password must be shorter than 60 characters."
+msgstr "Parola 60 harften uzun olamaz."
+
+#: src/components/ChangeMail.jsx:91 src/components/ChangeName.jsx:68
+#: src/components/ChangePassword.jsx:109 src/components/LanguageSelect.jsx:80
+msgid "Save"
+msgstr "Kaydet"
+
+#: src/components/GetIID.jsx:44
+msgid "Get IID"
+msgstr "IID Al"
+
+#: src/components/GetIID.jsx:53
+msgid "Copy"
+msgstr "Kopyala"
+
+#: src/components/LogInArea.jsx:19
+msgid "Login to access more features and stats."
+msgstr "Daha fazla özellik ve istatistik için giriş yapın."
+
+#: src/components/LogInArea.jsx:21
+msgid "Login with Name or Mail:"
+msgstr "Kullanıcı adı veya E-Posta ile giriş yap:"
+
+#: src/components/LogInArea.jsx:28
+msgid "I forgot my Password."
+msgstr "Parolamı Unuttum."
+
+#: src/components/LogInArea.jsx:29
+msgid "or login with:"
+msgstr "veya bunlar ile giriş yap:"
+
+#: src/components/LogInArea.jsx:70
+msgid "or register here:"
+msgstr "veya buradan kayıt ol:"
+
+#: src/components/LogInArea.jsx:75
+msgid "Register"
+msgstr "Kayıt Ol"
+
+#: src/components/UserAreaContent.jsx:62
+msgid "Today Placed Pixels"
+msgstr "Bugün Atılan Pikseller"
+
+#: src/components/UserAreaContent.jsx:66
+msgid "Daily Rank"
+msgstr "Günlük Sıralaman"
+
+#: src/components/UserAreaContent.jsx:71
+msgid "Placed Pixels"
+msgstr "Atılan Pikseller"
+
+#: src/components/UserAreaContent.jsx:75
+msgid "Total Rank"
+msgstr "Toplam Sıralaman"
+
+#: src/components/UserAreaContent.jsx:80
+#, javascript-format
+msgid "Your name is: ${ name }"
+msgstr "Kullanıcı adın: ${ name }"
+
+#: src/components/UserAreaContent.jsx:86
+msgid "Log out"
+msgstr "Çıkış Yap"
+
+#: src/components/UserAreaContent.jsx:93
+msgid "Change Username"
+msgstr "Kullanıcı Adı Değiştir"
+
+#: src/components/UserAreaContent.jsx:103
+msgid "Change Mail"
+msgstr "E-Posta Adresi Değiştir"
+
+#: src/components/UserAreaContent.jsx:112
+msgid "Change Password"
+msgstr "Parola Değiştir"
+
+#: src/components/UserAreaContent.jsx:119
+msgid "Delete Account"
+msgstr "Hesabı Sil"
+
+#: src/components/UserAreaContent.jsx:126
+msgid "Social Settings"
+msgstr "Sosyal Ayarlar"
+
+#: src/components/Converter.jsx:190 src/components/ModCanvastools.jsx:226
+msgid "Choose Canvas"
+msgstr "Tuval Seç"
+
+#: src/components/Converter.jsx:216
+msgid "Palette Download"
+msgstr "Palet İndir"
+
+#: src/components/Converter.jsx:218
+#, javascript-format
+msgid "Palette for ${ gimpLink }"
+msgstr "${ gimpLink } için palet"
+
+#: src/components/Converter.jsx:236
+msgid "Image Converter"
+msgstr "Resim Dönüştürücüsü"
+
+#: src/components/Converter.jsx:237
+msgid "Convert an image to canvas colors"
+msgstr "Yüklediğiniz resimdeki renkleri oyuna uygun renklere dönüştürür."
+
+#: src/components/Converter.jsx:256
+msgid "Choose Strategy"
+msgstr "Strateji seç"
+
+#: src/components/Converter.jsx:294
+msgid "Serpentine"
+msgstr "Serpantine"
+
+#: src/components/Converter.jsx:296
+msgid "Minimum Color Distance"
+msgstr "Minimum Renk Farkı"
+
+#: src/components/Converter.jsx:323
+msgid "Calculate like GIMP"
+msgstr "GIMP Gibi Hesapla"
+
+#: src/components/Converter.jsx:327
+msgid "Choose Color Mode"
+msgstr "Renk Modu Seç"
+
+#: src/components/Converter.jsx:356
+msgid "Add Grid (uncheck if you need a 1:1 template)"
+msgstr "Izgara ekle (eğer 1:1 bir şablon istiyorsanız bu seçeneği kapatın)"
+
+#: src/components/Converter.jsx:378 src/components/Converter.jsx:394
+msgid "Offset"
+msgstr "Pay"
+
+#: src/components/Converter.jsx:423
+msgid "Scale Image"
+msgstr "Resim Ölçüsü"
+
+#: src/components/Converter.jsx:434
+msgid "Width"
+msgstr "Genişlik"
+
+#: src/components/Converter.jsx:465
+msgid "Height"
+msgstr "Yükseklik"
+
+#: src/components/Converter.jsx:504
+msgid "Keep Ratio"
+msgstr "Oranı Koru"
+
+#: src/components/Converter.jsx:517
+msgid "Anti Aliasing"
+msgstr "Anti Aliasing"
+
+#: src/components/Converter.jsx:531
+msgid "Reset"
+msgstr "Sıfırla"
+
+#: src/components/Converter.jsx:549
+msgid "Download Template"
+msgstr "Şablonu İndir"
+
+#: src/components/Rankings.jsx:147
+msgid "Total"
+msgstr "Toplam"
+
+#: src/components/Rankings.jsx:156
+msgid "Today"
+msgstr "Bugün"
+
+#: src/components/Rankings.jsx:165
+msgid "Yesterday"
+msgstr "Dün"
+
+#: src/components/Rankings.jsx:174
+msgid "Countries Today"
+msgstr "Bugünkü Ülkeler"
+
+#: src/components/Rankings.jsx:183
+msgid "Charts"
+msgstr "Tablolar"
+
+#: src/components/Rankings.jsx:201 src/components/Rankings.jsx:210
+#: src/components/Rankings.jsx:219
+msgid "User"
+msgstr "Kullanıcı"
+
+#: src/components/Rankings.jsx:226
+msgid "Country"
+msgstr "Ülke"
+
+#: src/components/Rankings.jsx:286
+msgid "Ranking updates every 5 min. Daily rankings get reset at midnight UTC."
+msgstr ""
+"Sıralama her 5 dakikada bir güncellenir. Günlük sıralama UTC gece yarısında "
+"sıfırlanır."
+
+#: src/components/CanvasItem.jsx:29
+msgid "Online Users"
+msgstr "Çevrimiçi Kullanıcılar"
+
+#: src/components/CanvasItem.jsx:34
+msgid "Cooldown"
+msgstr "Bekleme Süresi"
+
+#: src/components/CanvasItem.jsx:40
+msgid "Stacking till"
+msgstr "Biriktirilebilir Süre"
+
+#: src/components/CanvasItem.jsx:42
+msgid "Ranked"
+msgstr "Sıralama"
+
+#: src/components/CanvasItem.jsx:44
+msgid "Yes"
+msgstr "Evet"
+
+#: src/components/CanvasItem.jsx:44
+msgid "No"
+msgstr "Hayır"
+
+#: src/components/CanvasItem.jsx:50
+msgid "Requirements"
+msgstr "Gereksinimler"
+
+#: src/components/CanvasItem.jsx:53
+msgid "User Account"
+msgstr "Kullanıcı Hesabı"
+
+#: src/components/CanvasItem.jsx:55
+#, javascript-format
+msgid "and ${ canvas.req } Pixels set"
+msgstr "ve ${ canvas.req } piksel"
+
+#: src/components/CanvasItem.jsx:58
+msgid "Top 10 Daily Ranking"
+msgstr "Günlük Top10 Sıralaması"
+
+#: src/components/CanvasItem.jsx:64
+msgid "Dimensions"
+msgstr "Boyutlar"
+
+#: src/core/chartSettings.js:30
+msgid "Top 10 Countries [pxls / day]"
+msgstr "En Yüksek 10 Ülke [piksel / gün]"
+
+#: src/core/chartSettings.js:127
+msgid "Players and Pixels per hour"
+msgstr "Saatlik oyuncu ve piksel sayısı"
+
+#: src/core/chartSettings.js:221
+msgid "Top 10 Players [pxls / day]"
+msgstr "En Yüksek 10 Oyuncu [piksel / gün]"
+
+#: src/core/chartSettings.js:294
+msgid "Countries by Pixels Today"
+msgstr "Bugünkü piksel sayılarına göre ülkeler"
+
+#: src/core/chartSettings.js:352
+msgid "Total Pixels placed per day"
+msgstr "Günlük atılan toplam piksel"
+
+#: src/components/LogInForm.jsx:77
+msgid "Name or Email"
+msgstr "Kullanıcı Adı veya E-Posta"
+
+#: src/components/LogInForm.jsx:88
+msgid "LogIn"
+msgstr "Giriş Yap"
+
+#: src/components/UserMessages.jsx:28
+msgid ""
+"Please verify your mail address or your account could get deleted after a "
+"few days."
+msgstr ""
+"Lütfen E-posta adresini doğrula yoksa hesabın birkaç gün içerisinde "
+"silinebilir."
+
+#: src/components/UserMessages.jsx:49
+msgid "A new verification mail is getting sent to you."
+msgstr "Sana yeni bir doğrulama postası gönderdik."
+
+#: src/components/UserMessages.jsx:53
+msgid "Click here to request a new verification mail."
+msgstr "Yeni bir doğrulama postası için buraya tıkla."
+
+#: src/components/ChangeName.jsx:64
+msgid "New Username"
+msgstr "Yeni Kullanıcı Adı"
+
+#: src/components/ChangePassword.jsx:21
+msgid "Passwords do not match."
+msgstr "Parolalar uyuşmuyor."
+
+#: src/components/ChangePassword.jsx:44
+msgid "Changed Password successfully."
+msgstr "Parola başarılı bir şekilde değiştirildi."
+
+#: src/components/ChangePassword.jsx:88
+msgid "Old Password"
+msgstr "Eski Parola"
+
+#: src/components/ChangePassword.jsx:96
+msgid "New Password"
+msgstr "Yeni Parola"
+
+#: src/components/ChangePassword.jsx:103
+msgid "Confirm New Password"
+msgstr "Yeni Parolayı Doğrula"
+
+#: src/components/ChangeMail.jsx:59
+msgid ""
+"Changed Mail successfully. We sent you a verification mail,             "
+"please verify your new mail address."
+msgstr ""
+"E-Posta başarılı bir şekilde değiştirildi. Sana bir doğrulama postası "
+"gönderdik,             lütfen yeni E-Posta adresin ile doğrula."
+
+#: src/components/ChangeMail.jsx:87
+msgid "New Mail"
+msgstr "Yeni Posta"
+
+#: src/components/DeleteAccount.jsx:66
+msgid "Yes, Delete My Account!"
+msgstr "Evet, Hesabımı Sil!"
+
+#: src/components/SocialSettings.jsx:35
+msgid "Block DMs"
+msgstr "DM'leri Engelle"
+
+#: src/components/SocialSettings.jsx:42
+msgid "Block all Private Messages"
+msgstr "Tüm Gizli Mesajları Engelle"
+
+#: src/components/SocialSettings.jsx:44
+msgid "Private"
+msgstr "Özel"
+
+#: src/components/SocialSettings.jsx:51
+msgid "Don't show me in global stats"
+msgstr "Beni istatistiklerde gösterme"
+
+#: src/components/SocialSettings.jsx:57
+msgid "Unblock Users"
+msgstr "Kullanıcıların Engelini Kaldır"
+
+#: src/components/SocialSettings.jsx:82
+msgid "You have no users blocked"
+msgstr "Engellediğin kullanıcı yok"
+
+#: src/components/ModCanvastools.jsx:168
+msgid "Build image on canvas."
+msgstr "Tuvalde resim yarat."
+
+#: src/components/ModCanvastools.jsx:171
+msgid "Build image and set it to protected."
+msgstr "Resim yarat ve koruma altına al."
+
+#: src/components/ModCanvastools.jsx:174
+msgid "Build image, but reset cooldown to unset-pixel cd."
+msgstr "Resim yarat, ama piksel sürelerini sıfırla."
+
+#: src/components/ModCanvastools.jsx:184
+msgid "Clean spare pixels that are surrounded by unset pixels"
+msgstr "Dokunulmamış pikseller ile kaplı olan spare pikselleri temizle"
+
+#: src/components/ModCanvastools.jsx:188
+msgid ""
+"Clean spare pixels that are surrounded by unset pixels and up to 1 other set "
+"pixels"
+msgstr ""
+"Dokunulmamış pikseller ile kaplı olan spare pikselleri temizle ve bire kadar "
+"pikselleri ayarla"
+
+#: src/components/ModCanvastools.jsx:192
+msgid ""
+"Clean spare pixels that are surrounded by a single other color or unset "
+"pixels (VERY AGGRESSIVE ON CANVASES THAT ALLOW UNSET PIXELS (where there are "
+"two cooldowns)!)"
+msgstr ""
+"Farklı bir renkteki veya dokunulmamış pikseller ile kaplı olan spare "
+"pikselleri temizle (FAZLA AGRESİF TUVALLERDE DOKUNULLMAMIŞ PİKSELLERE İZİN "
+"VERİR (iki tane bekleme süresi olanlardan)!)"
+
+#: src/components/ModCanvastools.jsx:203
+msgid "Status: Not running"
+msgstr "Statüler: Çalışmıyor"
+
+#: src/components/ModCanvastools.jsx:245
+msgid "Image Upload"
+msgstr "Resim Yükle"
+
+#: src/components/ModCanvastools.jsx:246
+msgid "Upload images to canvas"
+msgstr "Tuvale Resim Yükle"
+
+#: src/components/ModCanvastools.jsx:248
+msgid "File"
+msgstr "Dosya"
+
+#: src/components/ModCanvastools.jsx:269
+msgid "Coordinates in X_Y format:"
+msgstr "X_Y Formatında Koordinatlar:"
+
+#: src/components/ModCanvastools.jsx:307
+msgid "Pixel Protection"
+msgstr "Piksel Koruması"
+
+#: src/components/ModCanvastools.jsx:309
+msgid ""
+"Set protection of areas         (if you need finer grained control,         "
+"use protect with image upload and alpha layers)"
+msgstr ""
+"Koruma alanlarını ayarla         (eğer daha iyi tanelenmiş kontrole "
+"ihtiyacın varsa,         resim yükleme ve alfa katmanlarla koruma kullan)"
+
+#: src/components/ModCanvastools.jsx:330 src/components/ModCanvastools.jsx:403
+#: src/components/ModCanvastools.jsx:486 src/components/ModWatchtools.jsx:174
+msgid "Top-left corner"
+msgstr "Sol üst köşe"
+
+#: src/components/ModCanvastools.jsx:347 src/components/ModCanvastools.jsx:420
+#: src/components/ModCanvastools.jsx:503 src/components/ModWatchtools.jsx:191
+msgid "Bottom-right corner"
+msgstr "Sağ alt köşe"
+
+#: src/components/ModCanvastools.jsx:388
+msgid "Rollback to Date"
+msgstr "Tarihe rollbackle"
+
+#: src/components/ModCanvastools.jsx:390
+msgid "Rollback an area of the canvas to a set date (00:00 UTC)"
+msgstr "Alanı belirli bir tuval tarihine rollbackle (00:00 UTC)"
+
+#: src/components/ModCanvastools.jsx:461
+msgid "Canvas Cleaner"
+msgstr "Tuval Temizleyicisi"
+
+#: src/components/ModCanvastools.jsx:463
+msgid "Apply a filter to clean trash in large canvas areas."
+msgstr "Büyük tuval alanlarındaki çöpleri temizlemek için filtre uygula."
+
+#: src/components/ModCanvastools.jsx:564
+msgid "Stop Cleaner"
+msgstr "Temizleyiciyi Durdur"
+
+#: src/components/ModWatchtools.jsx:48
+msgid "Interval is invalid"
+msgstr "Aralık geçersiz"
+
+#: src/components/ModWatchtools.jsx:122
+msgid "Check who placed in an area"
+msgstr "Bir alana kimlerin attığını gör"
+
+#: src/components/ModWatchtools.jsx:123
+msgid "Canvas"
+msgstr "Tuval"
+
+#: src/components/ModWatchtools.jsx:142
+msgid "Interval"
+msgstr "Aralık"
+
+#: src/components/ModWatchtools.jsx:157
+msgid "IID (optional)"
+msgstr "IID (tercihen)"
+
+#: src/components/ModWatchtools.jsx:236
+msgid "Get Pixels"
+msgstr "Pikselleri Al"
+
+#: src/components/ModWatchtools.jsx:267
+msgid "Get Users"
+msgstr "Kullanıcıları Al"
+
+#: src/components/ModIIDtools.jsx:20
+msgid "You must enter a duration"
+msgstr "Bir zaman girmelisin"
+
+#: src/components/ModIIDtools.jsx:24
+msgid "You must enter an IID"
+msgstr "Bir IID girmelisin"
+
+#: src/components/ModIIDtools.jsx:53
+msgid "IID Actions"
+msgstr "IP Hareketleri"
+
+#: src/components/ModIIDtools.jsx:80
+msgid "Enter Reason"
+msgstr "Sebep Gir"
+
+#: src/components/ModIIDtools.jsx:97
+msgid "(0 = infinite)"
+msgstr "(0 = sonsuz)"
+
+#: src/components/Admintools.jsx:109
+msgid "IP Actions"
+msgstr "IP Hareketleri"
+
+#: src/components/Admintools.jsx:111
+msgid "Do stuff with IPs (one IP per line)"
+msgstr "IP'ler ile bir şeyler yap (her satıra bir IP)"
+
+#: src/components/Admintools.jsx:158
+msgid "Manage Moderators"
+msgstr "Moderatörleri Düzenle"
+
+#: src/components/Admintools.jsx:160
+msgid "Remove Moderator"
+msgstr "Moderatörü Kaldır"
+
+#: src/components/Admintools.jsx:193
+msgid "There are no mods"
+msgstr "Moderatör yok"
+
+#: src/components/Admintools.jsx:198
+msgid "Assign new Mod"
+msgstr "Yeni Bir Moderatör Al"
+
+#: src/components/Admintools.jsx:201
+msgid "Enter UserName of new Mod"
+msgstr "Yeni Moderatörün İsmini Gir"
+
+#: src/components/Admintools.jsx:210
+msgid "User Name"
+msgstr "Kullanıcı Adı"
+
+#: src/components/contextmenus/ChannelContextMenu.jsx:46
+msgid "Mute"
+msgstr "Sustur"
+
+#: src/components/contextmenus/UserContextMenu.jsx:49
+msgid "Ping"
+msgstr "Ping"
+
+#: src/components/contextmenus/UserContextMenu.jsx:75
+msgid "DM"
+msgstr "DM"
+
+#: src/components/contextmenus/UserContextMenu.jsx:86
+msgid "Block"
+msgstr "Engelle"
+
+#: src/components/windows/Help.jsx:15 src/components/windows/Settings.jsx:87
+msgctxt "keybinds"
+msgid "G"
+msgstr "G"
+
+#: src/components/windows/Help.jsx:16 src/components/windows/Settings.jsx:95
+msgctxt "keybinds"
+msgid "X"
+msgstr "X"
+
+#: src/components/windows/Settings.jsx:103
+msgctxt "keybinds"
+msgid "M"
+msgstr "M"
+
+#: src/components/windows/Help.jsx:17 src/components/windows/Settings.jsx:158
+msgctxt "keybinds"
+msgid "H"
+msgstr "H"
+
+#: src/components/windows/Help.jsx:18
+msgctxt "keybinds"
+msgid "R"
+msgstr "R"
+
+#: src/components/windows/Help.jsx:19
+msgctxt "keybinds"
+msgid "Q"
+msgstr "Q"
+
+#: src/components/windows/Help.jsx:20
+msgctxt "keybinds"
+msgid "E"
+msgstr "E"
+
+#: src/components/windows/Help.jsx:21
+msgctxt "keybinds"
+msgid "W"
+msgstr "W"
+
+#: src/components/windows/Help.jsx:22
+msgctxt "keybinds"
+msgid "A"
+msgstr "A"
+
+#: src/components/windows/Help.jsx:23
+msgctxt "keybinds"
+msgid "S"
+msgstr "S"
+
+#: src/components/windows/Help.jsx:24
+msgctxt "keybinds"
+msgid "D"
+msgstr "D"
+
+#: src/components/windows/Help.jsx:31
+msgctxt "keybinds"
+msgid "Shift"
+msgstr "Shift"
+
+#: src/components/windows/Help.jsx:32
+msgctxt "keybinds"
+msgid "C"
+msgstr "C"
+
+#~ msgid "Register New Account"
+#~ msgstr "Yeni Hesap Oluştur"
+
+#~ msgid "Restore my Password"
+#~ msgstr "Parolamı Yenile"
+
+#~ msgid "Welcome to PixMap.fun"
+#~ msgstr "PixMap.fun'a Hoş Geldiniz"
+
+#~ msgid "Look at past Canvases"
+#~ msgstr "Geçmiş tuvallere bak"
+
+#~ msgid "your IP"
+#~ msgstr "ip adresin"
+
+#~ msgid "Ranking"
+#~ msgstr "Sıralama"
+
+#~ msgid "Daily"
+#~ msgstr " Günlük"

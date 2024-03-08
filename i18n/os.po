@@ -1,0 +1,1176 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"Last-Translator: \n"
+"Language: os\n"
+
+#: src/components/CoordinatesBox.jsx:37 src/controls/keypress.js:59
+msgid "Copied!"
+msgstr "Къопи ис!"
+
+#: src/ui/placePixel.js:53
+msgid "Error :("
+msgstr "Рæдыд :("
+
+#: src/ui/placePixel.js:54
+msgid "Didn't get an answer from pixmap. Maybe try to refresh?"
+msgstr "Pixmap'мæ дзуаппы райс нæй? Чи зоны бафæлвар сног кæнын?"
+
+#: src/ui/placePixel.js:56 src/ui/placePixel.js:237 src/ui/placePixel.js:256
+msgid "OK"
+msgstr "Хорз"
+
+#: src/ui/placePixel.js:197
+msgid "Invalid Canvas"
+msgstr "Æнæраст Четæн"
+
+#: src/ui/placePixel.js:198
+msgid "This canvas doesn't exist"
+msgstr "Четæны ай æнæ фæлдис"
+
+#: src/ui/placePixel.js:201 src/ui/placePixel.js:205 src/ui/placePixel.js:209
+msgid "Invalid Coordinates"
+msgstr "Æнæраст Координаттæ"
+
+#: src/ui/placePixel.js:202
+msgid "x out of bounds"
+msgstr "x арæн æддейы"
+
+#: src/ui/placePixel.js:206
+msgid "y out of bounds"
+msgstr "y арæн æддейы"
+
+#: src/ui/placePixel.js:210
+msgid "z out of bounds"
+msgstr "z арæн æддейы"
+
+#: src/ui/placePixel.js:213
+msgid "Wrong Color"
+msgstr "Æнæраст хуыз"
+
+#: src/ui/placePixel.js:214
+msgid "Invalid color selected"
+msgstr "Æнæраст хуыз равзарон"
+
+#: src/ui/placePixel.js:217
+msgid "Just for registered Users"
+msgstr "Регистрацион пайдагæнæгæн æрмæст"
+
+#: src/ui/placePixel.js:218
+msgid "You have to be logged in to place on this canvas"
+msgstr "Ды системы бацу дарын, цæмæй бынæттæ скæн чатæны ай"
+
+#: src/ui/placePixel.js:221
+msgid "Place more :)"
+msgstr "Стылдæр равæрын :)"
+
+#: src/ui/placePixel.js:223
+msgid "You can not access this canvas yet. You need to place more pixels"
+msgstr ""
+"Нæй гæнæн дæ бацæуæн райсын четæнмæ ай. Сымахæн хъæуы бынæттæ скæн стылдæр "
+"пиксел"
+
+#: src/ui/placePixel.js:226
+msgid "Pixel protected!"
+msgstr "Пиксел хъахъхъæн у!"
+
+#: src/ui/placePixel.js:235
+msgid "Please prove that you are human"
+msgstr "Табуафси, равдис ма цы адæймаг дæ"
+
+#: src/ui/placePixel.js:242
+msgid "No Proxies Allowed :("
+msgstr "Прокситæ æнæ бар :("
+
+#: src/ui/placePixel.js:243
+msgid "You are using a Proxy."
+msgstr "Дæ прокси спайда."
+
+#: src/ui/placePixel.js:246
+msgid "Weird"
+msgstr "Диссаг"
+
+#: src/ui/placePixel.js:247
+msgid "Couldn't set Pixel"
+msgstr "Æнæ рауади пикселы равæрыв"
+
+#: src/ui/placePixel.js:253
+#, javascript-format
+msgid "Error ${ retCode }"
+msgstr "Рæдыд ${ retCode }"
+
+#: src/components/Converter.jsx:609 src/components/CoordinatesBox.jsx:26
+msgid "Copy to Clipboard"
+msgstr "Буферы ивдмæ Къопи ис"
+
+#: src/components/OnlineBox.jsx:22
+msgid "User online"
+msgstr "Пайдагæнæг онлайн"
+
+#: src/components/OnlineBox.jsx:25
+msgid "Pixels placed"
+msgstr "Æрбынтон пикселтæ"
+
+#: src/components/CanvasSelectModal.jsx:67
+#: src/components/CanvasSwitchButton.jsx:20
+msgid "Canvas Selection"
+msgstr "Четæны Равзæрст"
+
+#: src/components/ChatButton.jsx:61
+msgid "Close Chat"
+msgstr "Чаты Сæхгæнын"
+
+#: src/components/ChatButton.jsx:61
+msgid "Open Chat"
+msgstr "Чаты Бакæнын"
+
+#: src/components/ExpandMenuButton.jsx:19
+msgid "Close Menu"
+msgstr "Меню Сæхгæнын"
+
+#: src/components/ExpandMenuButton.jsx:19
+msgid "Open Menu"
+msgstr "Меню Бакæнын"
+
+#: src/components/Admintools.jsx:219 src/components/ChannelContextMenu.jsx:85
+#: src/components/ModalRoot.jsx:88
+msgid "Close"
+msgstr "Сæхгæнын"
+
+#: src/actions/fetch.js:38
+msgid "You made too many requests"
+msgstr "Ды æгæр бирæ бафарст саразта"
+
+#: src/actions/fetch.js:42
+#, javascript-format
+msgid "try again after ${ ti }min"
+msgstr "иу хатт ма бафæлвæрдта ${ ti }мин. фæстæ"
+
+#: src/actions/fetch.js:53
+msgid "Connection error ${ code } :("
+msgstr "Бастдзинад рæдыд ${code} :("
+
+#: src/actions/fetch.js:78 src/actions/fetch.js:97
+msgid "Could not connect to server, please try again later :("
+msgstr "Æнæ рауади сервермæ бастдзинад, фæлварæн фæлхатма фæстæдæр :("
+
+#: src/actions/fetch.js:119 src/actions/fetch.js:138 src/actions/fetch.js:157
+#: src/actions/fetch.js:176
+msgid "Unknown Error"
+msgstr "Æнæхъуыст Рæдыд"
+
+#: src/actions/fetch.js:186
+msgid "Server answered with gibberish :("
+msgstr "Сервер хатиаг æвзаг  дзуапп ратт ма"
+
+#: src/components/HelpButton.jsx:20
+msgid "Help"
+msgstr "Æххуыс"
+
+#: src/components/Chat.jsx:143
+msgid "Channel settings"
+msgstr "Къаналы рæвдзгæнæнтæ"
+
+#: src/components/Chat.jsx:152
+msgid "maximize"
+msgstr "иуыл Стыр"
+
+#: src/components/Chat.jsx:168
+msgid "Start chatting here"
+msgstr "Райдай æмхиц уын ам"
+
+#: src/components/Chat.jsx:200
+msgid "Chat here"
+msgstr "Чаты ам"
+
+#: src/components/Chat.jsx:220
+msgid "You must be logged in to chat"
+msgstr "Ды чаты бацу дарын"
+
+#: src/components/SettingsButton.jsx:20 src/components/SettingsModal.jsx:278
+msgid "Settings"
+msgstr "Рæвдзгæнæнтæ"
+
+#: src/components/LogInButton.jsx:20 src/components/UserAreaModal.jsx:160
+msgid "User Area"
+msgstr "Пайдагæнæджы Облæст"
+
+#: src/components/DownloadButton.jsx:37
+msgid "Make Screenshot"
+msgstr "Скриншоты Саразын"
+
+#: src/components/GlobeButton.jsx:31
+msgid "Globe View"
+msgstr "Глобалон бакаст"
+
+#: src/components/PalselButton.jsx:25
+msgid "Close Palette"
+msgstr "Палитры Сæхгæнын"
+
+#: src/components/PalselButton.jsx:25
+msgid "Open Palette"
+msgstr "Палитры Бакæнын"
+
+#: src/components/UserContextMenu.jsx:72
+msgid "Ping"
+msgstr "Пинг"
+
+#: src/components/UserContextMenu.jsx:97
+msgid "DM"
+msgstr "Гоймагон Фыстæджытæ"
+
+#: src/components/UserContextMenu.jsx:107
+msgid "Block"
+msgstr "Фæхъоды кæн"
+
+#: src/components/ChannelContextMenu.jsx:73
+msgid "Mute"
+msgstr "Фæбынæй кæн"
+
+#: src/components/HelpModal.jsx:35
+msgid "your IP"
+msgstr "дæ IP"
+
+#: src/components/HelpModal.jsx:41
+msgid "Place color pixels on a large canvas with other players online!"
+msgstr "Хуызджын пикселтæ бынæт стыр четæны иумæ иннæ хъазæгимæ онлайн!"
+
+#: src/components/HelpModal.jsx:42
+msgid ""
+"Our main canvas is a huge worldmap, you can place wherever you like, but you "
+"will have to wait a specific Cooldown between pixels. You can check out the "
+"cooldown and requirements on the Canvas Selection menu (globe button on "
+"top). Some canvases have a different cooldown for replacing a user-set "
+"pixels than placing on a unset pixel. i.e. 4s/7s means 4s on fresh pixels "
+"and 7s on already set pixels."
+msgstr ""
+"Нæ бындурон четæн - стыр дунейы картæ, кæцы æмбæлы равæр кæм фæнды, фæлæ "
+"сымахæн хъæуы факæс бæлвырдон рæстæг сфидар пикселы астæу. Ды æмбæлы рæстæг "
+"сфидар рабæлвырд у æмæ домæн меню четæны равзæрст (Глобусы джыбы уæлейæ). "
+"Кæцыдæр четæнтæ иннæ рæстæг мын ис сфидар ивдæн рардон пикселы пайдагæнæг, "
+"цæмæй æнæфидаргонд пикселæн. Ома 4s / 7s нысанта 4s ног пикселы æмæ 7s нырид "
+"æрæвæрд пикселтæ."
+
+#: src/components/HelpModal.jsx:46
+msgid ""
+"Higher zoomlevels take some time to update, the 3D globe gets updated at "
+"least once per day."
+msgstr ""
+"Сногæн бæрзонд æмвæздæр масштабы хъæуын исдуг, æртæбаргæ глобус сног кæны "
+"æнæ стæмхатт боны иу хатт."
+
+#: src/components/HelpModal.jsx:47
+msgid "Have fun!"
+msgstr "Ивхæрс!"
+
+#: src/components/HelpModal.jsx:49
+msgid "recommended"
+msgstr "рекомендацион"
+
+#: src/components/HelpModal.jsx:50
+msgid "Source on "
+msgstr "Гуырæн баргъæв "
+
+#: src/components/HelpModal.jsx:51
+msgid "Map Data"
+msgstr "Карты Бæрæггæнæнтæ"
+
+#: src/components/HelpModal.jsx:52
+msgid ""
+"The bare map data that we use, together with converted OpenStreetMap tiles "
+"for orientation, can be downloaded from mega.nz here: "
+msgstr ""
+"Спайда махæн лæгуын картæты фыссы бæрæггæнæнтæ иумæ рацарæзты фрагментимæ "
+"OpenStreetMap байдзаг здæхтæн æмбæлы сайтимæ mega.nz ам: "
+
+#: src/components/HelpModal.jsx:54
+msgid "Detected as Proxy?"
+msgstr "Прокси куыд равдис?"
+
+#: src/components/HelpModal.jsx:56
+#, javascript-format
+msgid ""
+"If you got detected as proxy, but you are none, please go to our "
+"${ guildedLink } or send us an e-mail with ${ getIPLink } to ${ mailLink }. "
+"Do not post your IP anywhere else. We are sorry for the inconvenience."
+msgstr ""
+"Кæд дæ рабæрæг куыд прокси, фæлæ ахæм дæ æнæ зынон, фарсы ацæу "
+"${guildedLink} кæнæ арвит махæн електронон фыстæг ${getIPLink}'имæ адрисы "
+"${mailLink}. Бынæттæ нæй дæ IP кæм кæнæ ма. Хион хатыр хæссма фæсзынвадат."
+
+#: src/components/HelpModal.jsx:58 src/components/HelpModal.jsx:75
+msgid "Controls"
+msgstr "Цæстдард"
+
+#: src/components/HelpModal.jsx:60
+msgid "Click a color in palette to select it"
+msgstr "Палитры хуыз ныкъкъæрцц, цæмæй уый равзар"
+
+#: src/components/HelpModal.jsx:61
+#, javascript-format
+msgid "Press ${ bindG } to toggle grid"
+msgstr "Æлхъив ${ bindG } цæмæй хызы аргъæв"
+
+#: src/components/HelpModal.jsx:62
+msgid "Press ${ bindX } to toggle showing of pixel activity"
+msgstr "Æлхъив ${ bindX } аргъæвæн фæлгонц пикселы разæнгарддзинад"
+
+#: src/components/HelpModal.jsx:63
+#, javascript-format
+msgid "Press ${ bindH } to toggle historical view"
+msgstr "Æлхъив ${ bindH } историкон бакаст аргъæв"
+
+#: src/components/HelpModal.jsx:64
+msgid "Press ${ bindR } to copy coordinates"
+msgstr "Æлхъив ${ bindR } координаты къопи ис"
+
+#: src/components/HelpModal.jsx:65
+#, javascript-format
+msgid "Press ${ bindQ } or ${ bindE } to zoom"
+msgstr "Æлхъив ${ bindQ } кæнæ ${ bindE } бирæ кæн"
+
+#: src/components/HelpModal.jsx:66 src/components/HelpModal.jsx:77
+#, javascript-format
+msgid "Press ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } to move"
+msgstr "Æлхъив ${ bindW }, ${ bindA }, ${ bindS }. ${ bindD } цæмæй бынат аив"
+
+#: src/components/HelpModal.jsx:67 src/components/HelpModal.jsx:78
+#, javascript-format
+msgid ""
+"Press ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } to move"
+msgstr ""
+"Æлхъив ${ bindAUp }, ${ bindALeft }, ${ bindADown }. ${ bindARight } цæмæй "
+"бынат аив"
+
+#: src/components/HelpModal.jsx:68
+msgid "Drag ${ mouseSymbol } mouse or ${ touchSymbol } pan to move"
+msgstr "Алас ${mouseSymbol} мыст кæнæ ${touchSymbol} pan цæмæй бынат аив"
+
+#: src/components/HelpModal.jsx:69
+#, javascript-format
+msgid "Scroll ${ mouseSymbol } mouse wheel or ${ touchSymbol } pinch to zoom"
+msgstr ""
+"Зил мысты цалх ${mouseSymbol} кæнæ æнгуылдз фæлхыскъ ${touchSymbol}, цæмæй "
+"фæфылдæр"
+
+#: src/components/HelpModal.jsx:70
+msgid "Hold left ${ bindShift } for placing while moving mouse"
+msgstr "Хи уром галиу джыбы ${bindShift} æрбынатæн бынатаивд мыст цур"
+
+#: src/components/HelpModal.jsx:71
+#, javascript-format
+msgid ""
+"Hold right ${ bindShift } for placing while moving mouse according to "
+"historical view"
+msgstr ""
+"Уром рахиз джыбы ${bindShift} æрбынатæн бынатаивд мыст цур æмбæрдзинады "
+"историкон афæлгæстимæ"
+
+#: src/components/HelpModal.jsx:72 src/components/HelpModal.jsx:83
+#, javascript-format
+msgid "${ mouseSymbol } Left click or ${ touchSymbol } tap to place a pixel"
+msgstr ""
+"${ mouseSymbol } Галиу джыбы мыст ныкъкъæрцц кæнæ символы фæцагай "
+"${ touchSymbol }, цæмæй пикселы бынæттæ"
+
+#: src/components/HelpModal.jsx:73 src/components/HelpModal.jsx:85
+msgid ""
+"Click ${ mouseSymbol } middle mouse button or ${ touchSymbol } long-tap to "
+"select current hovering color"
+msgstr ""
+"Æлхъив астæуккаг джыбы мыст ${ mouseSymbol } кæнæ æрæлхъив æмæ уром "
+"${ touchSymbol }, цæмæй равзар цæугæ хуыз басгардзинад"
+
+#: src/components/HelpModal.jsx:79
+msgid "Press ${ bindE } and ${ bindC } to fly up and down"
+msgstr "Цæмæй тæх сæр æмæ дæлæмæ, æлхъив ${bindE} æмæ ${bindC}"
+
+#: src/components/HelpModal.jsx:80
+#, javascript-format
+msgid "${ mouseSymbol } Hold left mouse button and drag mouse to rotate"
+msgstr "${mouseSymbol} Галиу джыбы мыст уром,мысты алас цæмæй аздах"
+
+#: src/components/HelpModal.jsx:81
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Scroll mouse wheel or hold ${ mouseSymbol } middle mouse "
+"button and drag to zoom"
+msgstr ""
+"${ mouseSymbol } Мысты цалх зил кæнæ уром ${ mouseSymbol } астæуккаг мысты "
+"джыбы æмæ ахадæнæн алас"
+
+#: src/components/HelpModal.jsx:82
+msgid "${ mouseSymbol } Right click and drag mouse to pan"
+msgstr "${ mouseSymbol } Рахиз джыбы ныкъкъæрцц мыст æмæ мыст алас стыр нывæн"
+
+#: src/components/HelpModal.jsx:84
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Right click or ${ touchSymbol } double-tap to remove a pixel"
+msgstr ""
+"${ mouseSymbol } Рахиз джыбы ныкъкъæрцц мыст кæнæ дыууæ хатты æлхъив "
+"${ touchSymbol }, цæмæй пикселы адард"
+
+#: src/components/HelpModal.jsx:87
+msgid "Partners:"
+msgstr "Æмбалтæ:"
+
+#: src/components/HelpModal.jsx:94
+msgid "Welcome to PixMap.fun"
+msgstr "Табуафси PixMap.fun'мæ"
+
+#: src/components/SettingsModal.jsx:125
+msgid "Show Grid"
+msgstr "Хызæг Равдис"
+
+#: src/components/SettingsModal.jsx:126
+msgid "Turn on grid to highlight pixel borders."
+msgstr "Хызæг баргъæвын цæмæй пикселы арæн равзар."
+
+#: src/components/SettingsModal.jsx:132
+msgid "Show Pixel Activity"
+msgstr "Пикселы разæнгарддзинад равдис"
+
+#: src/components/SettingsModal.jsx:133
+msgid "Show circles where pixels are placed."
+msgstr "Зылдтæ равдис, кæцы пикселы æрбынат."
+
+#: src/components/SettingsModal.jsx:139
+msgid "Disable Game Sounds"
+msgstr "Хъазты Зæл Рафтау"
+
+#: src/components/SettingsModal.jsx:141
+msgid "All sound effects will be disabled."
+msgstr "Алцы зæлон архайдтæ рафтау æгъгъæд."
+
+#: src/components/SettingsModal.jsx:147
+msgid "Enable chat notifications"
+msgstr "Чаты хъусыгæнæнтæ баргъæв"
+
+#: src/components/SettingsModal.jsx:148
+msgid "Play a sound when new chat messages arrive"
+msgstr "Сноджы зæл фæзынд рæстæджы ног чаты фыстæджытæ"
+
+#: src/components/SettingsModal.jsx:153
+msgid "Auto Zoom In"
+msgstr "Автоахадæн"
+
+#: src/components/SettingsModal.jsx:155
+msgid ""
+"Zoom in instead of placing a pixel when you tap the canvas and your zoom is "
+"small."
+msgstr ""
+"Масштабы ахадæн уыцы бæсты цæмæй пикселы бынæттæ кæнын, кæддæ ныдзæв четæн "
+"æмæ дæ масштаб къаннæг."
+
+#: src/components/SettingsModal.jsx:160
+msgid "Compact Palette"
+msgstr "Æнгом Палитрæ"
+
+#: src/components/SettingsModal.jsx:162
+msgid "Display Palette in a compact form that takes less screen space."
+msgstr "Æнгом Палитрæ райста къаддæр екраны бынат."
+
+#: src/components/SettingsModal.jsx:167
+msgid "Potato Mode"
+msgstr "Картофы Уаг"
+
+#: src/components/SettingsModal.jsx:168
+msgid "For when you are playing on a potato."
+msgstr "Кæд картофы хъазт."
+
+#: src/components/Converter.jsx:423 src/components/SettingsModal.jsx:173
+msgid "Light Grid"
+msgstr "Рухсы Хызæг"
+
+#: src/components/SettingsModal.jsx:174
+msgid "Show Grid in white instead of black."
+msgstr "Хызæг æвдисын урс хуыз сау бæсты."
+
+#: src/components/SettingsModal.jsx:180
+msgid "Historical View"
+msgstr "Историон бакаст"
+
+#: src/components/SettingsModal.jsx:181
+msgid "Check out past versions of the canvas."
+msgstr "Рабæлвырд четæны ивгъуыд верси."
+
+#: src/components/SettingsModal.jsx:189
+msgid "Themes"
+msgstr "Темтæ"
+
+#: src/components/SettingsModal.jsx:190
+msgid "How pixmap should look like."
+msgstr "Куыд дарын pixmap йæ бакаст."
+
+#: src/components/SettingsModal.jsx:200
+msgid "Select Language"
+msgstr "Æвзаджы Равзарын"
+
+#: src/components/UserAreaModal.jsx:33
+msgid "Login to access more features and stats."
+msgstr "Бацу цæмæй бацæуæн райсын баххæстаг функци кæнæ статистикмæ."
+
+#: src/components/UserAreaModal.jsx:35
+msgid "Login with Name or Mail:"
+msgstr "Ном кæнæ посты бацу:"
+
+#: src/components/UserAreaModal.jsx:42
+msgid "I forgot my Password."
+msgstr "Паролы мæ ферох."
+
+#: src/components/UserAreaModal.jsx:43
+msgid "or login with:"
+msgstr "кæнæ бацу æххуысимæ:"
+
+#: src/components/UserAreaModal.jsx:84
+msgid "or register here:"
+msgstr "кæнæ регистраци ам:"
+
+#: src/components/UserAreaModal.jsx:85
+msgid "Register"
+msgstr "Регистраци"
+
+#: src/components/UserAreaModal.jsx:107
+msgid "Profile"
+msgstr "Профил"
+
+#: src/components/UserAreaModal.jsx:113
+msgid "Ranking"
+msgstr "Рейтинг"
+
+#: src/components/UserAreaModal.jsx:116
+msgid "Converter"
+msgstr "Къонвертер"
+
+#: src/components/UserAreaModal.jsx:122
+msgid "Admintools"
+msgstr "Admintools"
+
+#: src/components/UserAreaModal.jsx:122
+msgid "Modtools"
+msgstr "Modtools"
+
+#: src/components/UserAreaModal.jsx:123
+msgid "Loading..."
+msgstr "Æрбавгæд..."
+
+#: src/components/ForgotPasswordModal.jsx:20
+#: src/components/RegisterModal.jsx:21 src/components/UserAreaModal.jsx:130
+msgid "Consider joining us on Guilded:"
+msgstr "Баиу махæнмæ Guilded:"
+
+#: src/components/RegisterModal.jsx:18
+msgid "Register new account here"
+msgstr "Ног аккаунт регистраци ам"
+
+#: src/components/RegisterModal.jsx:38
+msgid "Register New Account"
+msgstr "Ног Аккаунт Регистраци"
+
+#: src/components/CanvasSelectModal.jsx:29
+msgid ""
+"Select the canvas you want to use. Every canvas is unique and has different "
+"palettes, cooldown and requirements. Archive of closed canvases can be "
+"accessed here:"
+msgstr ""
+"Четæны равзар кæцы спайда фæнды дæ. Алы четæн уникал æмæ алы палитрытæ ис, "
+"рæстæг сфидар æмæ домæн. Архив æхгæд кæттаг ам ис:"
+
+#: src/components/CanvasSelectModal.jsx:37
+msgid "Archive"
+msgstr "Архив"
+
+#: src/components/ArchiveModal.jsx:20
+msgid ""
+"While we tend to not delete canvases, some canvases are started for fun or "
+"as a request by users who currently like a meme. Those canvases can get "
+"boring after a while and after weeks of no major change and if they really "
+"aren't worth being kept active, we decide to remove them."
+msgstr ""
+"Кæд мах куыд уагæвæрд,четæнтæ хай нæй, кæцыдæр фæлдыст ивхæрсæнæн кæнæ "
+"курдиаты пайдагæнæг,кæцы абоны бон рæстæг мем зæрдæмæ. Четæны ай чи схъыг "
+"исдуг фæстæ, æмæ стæй цалдæр къуыри нæуæвын лæмбынæг ивындзинад, æмæ кæд "
+"уыдон æцæг лæууы уыцы нæй, цæмæй зай разæнгард, мах скъуыддзаг адард уыдон."
+
+#: src/components/ArchiveModal.jsx:22
+msgid ""
+"Here we collect those canvases to archive them in a proper way (which is "
+"currently just one)."
+msgstr ""
+"Мах ам хи рæвдз четæны ай, цæмæй аккаг фæлгонц архив кæнын уыдон (абоны бон "
+"рæстæджы æрмæст иунæг ай)."
+
+#: src/components/ArchiveModal.jsx:24
+msgid "Political Compass Canvas"
+msgstr "Политикон Хъыбыллæ Четæн"
+
+#: src/components/ArchiveModal.jsx:31
+msgid ""
+"This canvas got requested during a time of political conflicts on the main "
+"Earth canvas. It was a 1024x1024 representation of the political compass "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
+"remained active for months till it got shut down on November 30th."
+msgstr ""
+"Четæны ай уыд æркур рæстæджы политикон быцæу сæйраг зæххы кæттаджы. Уыд "
+"бавдыст ай политикон æнгом барлæвæрды 1024x1024 ифтыгъдимæ 5 сикъунд æмæ "
+"суммированийы 60 сикъунд. 11 майы фехс ма йæ æмæ зайы разæнгард цыды цалдæр "
+"мæй,цалынмæ сæхгæн йæ ай."
+
+#: src/components/ArchiveModal.jsx:32
+msgid ""
+"We decided to archive it as a timelapse with lossless encoded webm. Taking a "
+"screenshot from the timelapse results in a perfect 1:1 representation of how "
+"the canvas was at that time."
+msgstr ""
+"Сфæнд кодтон архив кæны уый куыд таймлапс шифримæ æнæ асæрф webm. Екраны "
+"хуызист таймлапсæй ратт хæрзæххæст бавдис 1:1 уыцы, кæцы уыд четæн та "
+"рæстæджы."
+
+#: src/components/ArchiveModal.jsx:50
+msgid "Canvas Archive"
+msgstr "Четæны Архив"
+
+#: src/components/ChatModal.jsx:35
+msgid "Chat"
+msgstr "Чат"
+
+#: src/components/ForgotPasswordModal.jsx:16
+msgid "Enter your mail address and we will send you a new password:"
+msgstr "Дæ посты адрис мидæмæ, æмæ мах ног парол сымахæн æрæрвит:"
+
+#: src/components/ForgotPasswordModal.jsx:37
+msgid "Restore my Password"
+msgstr "Мæ парол сфидар кæн"
+
+#: src/components/Captcha.jsx:41 src/components/ChangeMail.jsx:88
+#: src/components/ChangeName.jsx:67 src/components/ChangePassword.jsx:73
+#: src/components/DeleteAccount.jsx:67 src/components/LogInForm.jsx:82
+#: src/components/NewPasswordForm.jsx:79 src/components/SignUpForm.jsx:100
+msgid "Error"
+msgstr "Рæдыд"
+
+#: src/components/Captcha.jsx:45
+msgid "Type the characters from the following image:"
+msgstr "Символы бакæн иннæ сурæтимæ:"
+
+#: src/components/Captcha.jsx:48
+msgid "Tip: Not case-sensitive; I and l are the same"
+msgstr "Уынаффæ: Регистрымæ ненкъарæг; Æз æмæ æз ахæм та"
+
+#: src/components/Captcha.jsx:72
+msgid "Could not load captcha"
+msgstr "Captcha байдзаг бантыс ма"
+
+#: src/components/Captcha.jsx:76
+msgid "Can't read? Reload:"
+msgstr "Арæхс ма кæсын? Бавдзаг кæн:"
+
+#: src/components/Captcha.jsx:80
+msgid "Reload"
+msgstr "Бавдзаг кæн"
+
+#: src/components/Captcha.jsx:92
+msgid "Enter Characters"
+msgstr "Символы Бакæн кæн"
+
+#: src/components/Captcha.jsx:117 src/components/ChangeMail.jsx:109
+#: src/components/ChangeName.jsx:79 src/components/ChangePassword.jsx:109
+#: src/components/DeleteAccount.jsx:80 src/components/NewPasswordForm.jsx:92
+#: src/components/SignUpForm.jsx:144
+msgid "Cancel"
+msgstr "Аивын"
+
+#: src/components/Captcha.jsx:124
+msgid "Send"
+msgstr "Арвитын"
+
+#: src/components/ChangeMail.jsx:107 src/components/ChangeName.jsx:77
+#: src/components/ChangePassword.jsx:103 src/components/LanguageSelect.jsx:73
+msgid "Save"
+msgstr "Бавæрын"
+
+#: src/components/LogInForm.jsx:89
+msgid "Name or Email"
+msgstr "Ном кæнæ Електронон пост"
+
+#: src/components/ChangeMail.jsx:96 src/components/DeleteAccount.jsx:74
+#: src/components/LogInForm.jsx:96 src/components/SignUpForm.jsx:125
+msgid "Password"
+msgstr "Парол"
+
+#: src/components/LogInForm.jsx:100
+msgid "LogIn"
+msgstr "Бацу"
+
+#: src/components/UserArea.jsx:57
+msgid "Today Placed Pixels"
+msgstr "Абонон Равæрды Пикселтæ"
+
+#: src/components/UserArea.jsx:61
+msgid "Daily Rank"
+msgstr "Алыбоны Рейтинг"
+
+#: src/components/UserArea.jsx:66
+msgid "Placed Pixels"
+msgstr "Равæрды Пикселтæ"
+
+#: src/components/UserArea.jsx:70
+msgid "Total Rank"
+msgstr "Иумæйаг Рейтинг"
+
+#: src/components/UserArea.jsx:75
+#, javascript-format
+msgid "Your name is: ${ name }"
+msgstr "Дæ ном: ${ name }"
+
+#: src/components/UserArea.jsx:81
+msgid "Log out"
+msgstr "Рахиз"
+
+#: src/components/UserArea.jsx:93
+msgid "Change Username"
+msgstr "Пайдæгæнæджы ном Аивын"
+
+#: src/components/UserArea.jsx:108
+msgid "Change Mail"
+msgstr "Електронон Посты Аивын"
+
+#: src/components/UserArea.jsx:122
+msgid "Change Password"
+msgstr "Паролы Аивын"
+
+#: src/components/UserArea.jsx:134
+msgid "Delete Account"
+msgstr "Аккаунты Адард кæн"
+
+#: src/components/UserArea.jsx:147
+msgid "Social Settings"
+msgstr "Социалон Рæвдзгæнæнтæ"
+
+#: src/components/Rankings.jsx:37
+msgid "Total"
+msgstr "Иумæйæг"
+
+#: src/components/Rankings.jsx:45
+msgid "Daily"
+msgstr "Алыбон"
+
+#: src/components/Rankings.jsx:49
+msgid "Ranking updates every 5 min. Daily rankings get reset at midnight UTC."
+msgstr ""
+"Рейтинг ногæй алы 5 минуты. Æрвылбойнон рейтингтæ æппар æмбисæхсæвы "
+"æппæтдунеон координаты рæстæджыл."
+
+#: src/components/SignUpForm.jsx:109
+msgid "Name"
+msgstr "Ном"
+
+#: src/components/NewPasswordForm.jsx:86 src/components/SignUpForm.jsx:117
+msgid "Email"
+msgstr "Електронон Пост"
+
+#: src/components/SignUpForm.jsx:135
+msgid "Confirm Password"
+msgstr "Паролы Сфидар кæн"
+
+#: src/components/Admintools.jsx:306 src/components/Admintools.jsx:387
+#: src/components/Admintools.jsx:461 src/components/Admintools.jsx:505
+#: src/components/Admintools.jsx:589 src/components/NewPasswordForm.jsx:90
+#: src/components/SignUpForm.jsx:138
+msgid "Submit"
+msgstr "Сфидар кæн"
+
+#: src/components/Admintools.jsx:179
+msgid "Build image on canvas."
+msgstr "Сурæт четæныл сараз."
+
+#: src/components/Admintools.jsx:182
+msgid "Build image and set it to protected."
+msgstr "Сурæты сфæлдис æмæ равæр йæ хъахъхъæнæн."
+
+#: src/components/Admintools.jsx:185
+msgid "Build image, but reset cooldown to unset-pixel cd."
+msgstr ""
+"Сурæты сфæлдис, фæлæ раппар цалцæджы рæстæг æнæравæрон пикселы æнгом-дискмæ."
+
+#: src/components/Admintools.jsx:248
+msgid "Image Upload"
+msgstr "Сурæты Байдзаг"
+
+#: src/components/Admintools.jsx:249
+msgid "Upload images to canvas"
+msgstr "Сурæт четæныл байдзаг"
+
+#: src/components/Admintools.jsx:251
+msgid "File"
+msgstr "Файл"
+
+#: src/components/Admintools.jsx:271
+msgid "Coordinates in X_Y format:"
+msgstr "Форматы координаты X_Y:"
+
+#: src/components/Admintools.jsx:311
+msgid "Pixel Protection"
+msgstr "Пикселы Хъахъхъæд"
+
+#: src/components/Admintools.jsx:313
+msgid ""
+"Set protection of areas         (if you need finer grained control,         "
+"use protect with image upload and alpha layers)"
+msgstr ""
+"Облæсты хъахъхъæд равæр         (дæ хъæуы куы дырыс цæстдарддæр,         "
+"хъахъхъæды спайда æрбавгæд сурæтимæ æмæ алфæ-цъар)"
+
+#: src/components/Admintools.jsx:392
+msgid "Rollback to Date"
+msgstr "Датæмæ Тулæй"
+
+#: src/components/Admintools.jsx:394
+msgid "Rollback an area of the canvas to a set date (00:00 UTC)"
+msgstr "Облæст четæны тулæй æрæвæрд датæмæ (00:00 UTC)"
+
+#: src/components/Admintools.jsx:468
+msgid "IP Actions"
+msgstr "IP Архайд"
+
+#: src/components/Admintools.jsx:470
+msgid "Do stuff with IPs (one IP per line)"
+msgstr "Цыфæнды араз IP-Адрисимæ (Иунæг IP-Адрис гæсгæ рæнхъы)"
+
+#: src/components/Admintools.jsx:510
+msgid "Manage Moderators"
+msgstr "Модератæгтæ Тæрын"
+
+#: src/components/Admintools.jsx:512
+msgid "Remove Moderator"
+msgstr "Модератæджы Адард"
+
+#: src/components/Admintools.jsx:544
+msgid "There are no mods"
+msgstr "Мод æнæ ард"
+
+#: src/components/Admintools.jsx:549
+msgid "Assign new Mod"
+msgstr "Ног моды снысан"
+
+#: src/components/Admintools.jsx:552
+msgid "Enter UserName of new Mod"
+msgstr "Пайдагæнæджы ном бакæн нæуæг мод"
+
+#: src/components/Admintools.jsx:561
+msgid "User Name"
+msgstr "Пайдагæнæджы Ном"
+
+#: src/components/CanvasItem.jsx:46
+msgid "Cooldown"
+msgstr "Цалцæджы Рæстæг"
+
+#: src/components/CanvasItem.jsx:52
+msgid "Stacking till"
+msgstr "Æвæрдмæ"
+
+#: src/components/CanvasItem.jsx:54
+msgid "Ranked"
+msgstr "Рейтингмæ"
+
+#: src/components/CanvasItem.jsx:56
+msgid "Requirements"
+msgstr "Домæнтæ"
+
+#: src/components/CanvasItem.jsx:58
+msgid "User Account"
+msgstr "Пайдагæнæджы Аккаунт"
+
+#: src/components/CanvasItem.jsx:60
+#, javascript-format
+msgid "and ${ canvas.req } Pixels set"
+msgstr "æмæ ${ canvas.req } Пикселтæ равæр"
+
+#: src/components/CanvasItem.jsx:64
+msgid "Dimensions"
+msgstr "Бæрцтæ"
+
+#: src/components/NewPasswordForm.jsx:69
+msgid "Sent you a mail with instructions to reset your password."
+msgstr "Арвит фыстæг уын амындимæ паролы раппар гæсгæ."
+
+#: src/components/Converter.jsx:274
+msgid "Choose Canvas"
+msgstr "Четæны Равзар"
+
+#: src/components/Converter.jsx:300
+msgid "Palette Download"
+msgstr "Палитры Байдзаг"
+
+#: src/components/Converter.jsx:302
+#, javascript-format
+msgid "Palette for ${ gimpLink }"
+msgstr "Палитрæн ${ gimpLink }"
+
+#: src/components/Converter.jsx:320
+#, javascript-format
+msgid "Credit for the Palette of the Moon goes to ${ starhouseLink }."
+msgstr "Бузныг тыххæй «Палитры мæй» ${ starhouseLink }."
+
+#: src/components/Converter.jsx:323
+msgid "Image Converter"
+msgstr "Сурæты Къонвертæг"
+
+#: src/components/Converter.jsx:324
+msgid "Convert an image to canvas colors"
+msgstr "Сурæты рацарæзт четæны хуызимæ"
+
+#: src/components/Converter.jsx:335
+msgid "Choose Strategy"
+msgstr "Хæсты Дæсниады Равзар"
+
+#: src/components/Converter.jsx:362
+msgid "Choose Color Mode"
+msgstr "Хуызы Уаг Равзар"
+
+#: src/components/Converter.jsx:400
+msgid "Add Grid (uncheck if you need a 1:1 template)"
+msgstr "Хызæджы Бафтау (тырысæйы ис, сымахæн куы шаблоны хъæуы 1:1)"
+
+#: src/components/Converter.jsx:425 src/components/Converter.jsx:441
+msgid "Offset"
+msgstr "Баххæст кæн"
+
+#: src/components/Converter.jsx:471
+msgid "Scale Image"
+msgstr "Сурæт Масштаб кæн"
+
+#: src/components/Converter.jsx:483
+msgid "Width"
+msgstr "Фæтæн"
+
+#: src/components/Converter.jsx:513
+msgid "Height"
+msgstr "Бæрзонд"
+
+#: src/components/Converter.jsx:551
+msgid "Keep Ratio"
+msgstr "Æмахаст Хæцын"
+
+#: src/components/Converter.jsx:564
+msgid "Anti Aliasing"
+msgstr "Анти Лæгъз"
+
+#: src/components/Converter.jsx:578
+msgid "Reset"
+msgstr "Ногæй"
+
+#: src/components/Converter.jsx:597
+msgid "Download Template"
+msgstr "Шаблоны Равæр"
+
+#: src/utils/validation.js:18
+msgid "Email can't be empty."
+msgstr "Електроны пост æнæ чи зоны афтид уын."
+
+#: src/utils/validation.js:19
+msgid "Email should be at least 5 characters long."
+msgstr "Електроны пост дары у æнæ къаддæр цæмæй 5 символæй."
+
+#: src/utils/validation.js:20
+msgid "Email can't be longer than 40 characters."
+msgstr "Електроны пост æнæ чи зоны даргъ 40 символы."
+
+#: src/utils/validation.js:21
+msgid "Email should at least contain a dot"
+msgstr "Електронон пост дары хæссын уæд та тæпп"
+
+#: src/utils/validation.js:23
+msgid "Email should contain a @"
+msgstr "Електронон пост дары хæссын @"
+
+#: src/utils/validation.js:30
+msgid "Name can't be empty."
+msgstr "Ном æнæ чи зоны афтид."
+
+#: src/utils/validation.js:31
+msgid "Name must be at least 4 characters long"
+msgstr "Ном дарын у æнæ къаддæр цæмæй 4 символæй"
+
+#: src/utils/validation.js:32
+msgid "Name must be shorter than 26 characters"
+msgstr "Ном дарын у цыбыр 26 символы"
+
+#: src/utils/validation.js:39
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Ном хæссы æнæруадзгæ символ, дæнцæн @, /, \\ кæнæ #"
+
+#: src/utils/validation.js:54
+msgid "No password given."
+msgstr "Парол æнæ бацамон."
+
+#: src/utils/validation.js:57
+msgid "Password must be at least 6 characters long."
+msgstr "Парол дарын у æнæ къаддæр цæмæй 6 символæй."
+
+#: src/utils/validation.js:60
+msgid "Password must be shorter than 60 characters."
+msgstr "Парол дарын у цыбыр 60 символы."
+
+#: src/components/UserMessages.jsx:38
+msgid "A new verification mail is getting sent to you."
+msgstr "Æгъгъæд дæ араст ног фыстæг бæлвырдгæнæнимæ."
+
+#: src/components/UserMessages.jsx:66
+msgid "You successfully linked your mc account."
+msgstr "Æнтыстджынæй дæ сбæттма дæ mc аккаунт."
+
+#: src/components/UserMessages.jsx:67
+msgid "You denied."
+msgstr "Аиуварс дæ."
+
+#: src/components/UserMessages.jsx:85
+msgid ""
+"Please verify your mail address&nbsp;\n"
+"or your account could get deleted after a few days."
+msgstr ""
+"Табуафси сфидар дæ адрис електронон пост&nbsp;\n"
+"кæнæ дæ аккаунт чи зоны адард цалдæр бон фæстæ."
+
+#: src/components/UserMessages.jsx:102
+msgid "Click here to request a new verification mail."
+msgstr "Ныкъкъæрцц ам, цæмæй æрфæрс ног фыстæг бæлвырдгæнæнимæ."
+
+#: src/components/UserMessages.jsx:111
+#, javascript-format
+msgid "You requested to link your mc account ${ minecraftname }."
+msgstr "Ды бафарст бабæтт дæ mc аккаунт ${ minecraftname }."
+
+#: src/components/UserMessages.jsx:131
+msgid "Accept"
+msgstr "Райсын"
+
+#: src/components/UserMessages.jsx:141
+msgid "Deny"
+msgstr "Нæ райс"
+
+#: src/components/ChangeName.jsx:73
+msgid "New Username"
+msgstr "Ног Пайдагæнæджы Ном"
+
+#: src/components/ChangePassword.jsx:19
+msgid "Passwords do not match."
+msgstr "Парол æнæ аккаг у."
+
+#: src/components/ChangePassword.jsx:39
+msgid "Changed Password successfully."
+msgstr "Парол æнтыстджынæй раив."
+
+#: src/components/ChangePassword.jsx:82
+msgid "Old Password"
+msgstr "Зæронд Парол"
+
+#: src/components/ChangePassword.jsx:90
+msgid "New Password"
+msgstr "Ног Парол"
+
+#: src/components/ChangePassword.jsx:97
+msgid "Confirm New Password"
+msgstr "Ног Паролы Сфидар"
+
+#: src/components/ChangeMail.jsx:73
+msgid ""
+"Changed Mail successfully. We sent you a verification mail,               "
+"please verify your new mail address."
+msgstr ""
+"Пост æнтыстджынæй раив. Мах арвит дæ пост бæлвырдгæнæнимæ,               "
+"табуафси дæ ног адрис електронон посты сфидар."
+
+#: src/components/ChangeMail.jsx:103
+msgid "New Mail"
+msgstr "Ног Парол"
+
+#: src/components/DeleteAccount.jsx:78
+msgid "Yes, Delete My Account!"
+msgstr "О, Мæ Аккаунт Адард кæн!"
+
+#: src/components/SocialSettings.jsx:39
+msgid "Block all Private Messages"
+msgstr "Алцы Гоймагон Фыстæджытæ Фæхъоды айс"
+
+#: src/components/SocialSettings.jsx:57
+msgid "Unblock Users"
+msgstr "Пайдагæнæжы Хъоды айс"
+
+#: src/components/SocialSettings.jsx:81
+msgid "You have no users blocked"
+msgstr "Фæхъоды пайдагæнæджытæ æнæ ард"
+
+#: src/components/HelpModal.jsx:15 src/components/SettingsModal.jsx:127
+msgctxt "keybinds"
+msgid "G"
+msgstr "G"
+
+#: src/components/HelpModal.jsx:16 src/components/SettingsModal.jsx:134
+msgctxt "keybinds"
+msgid "X"
+msgstr "X"
+
+#: src/components/HelpModal.jsx:17 src/components/SettingsModal.jsx:183
+msgctxt "keybinds"
+msgid "H"
+msgstr "H"
+
+#: src/components/HelpModal.jsx:18
+msgctxt "keybinds"
+msgid "R"
+msgstr "R"
+
+#: src/components/HelpModal.jsx:19
+msgctxt "keybinds"
+msgid "Q"
+msgstr "Q"
+
+#: src/components/HelpModal.jsx:20
+msgctxt "keybinds"
+msgid "E"
+msgstr "E"
+
+#: src/components/HelpModal.jsx:21
+msgctxt "keybinds"
+msgid "W"
+msgstr "W"
+
+#: src/components/HelpModal.jsx:22
+msgctxt "keybinds"
+msgid "A"
+msgstr "A"
+
+#: src/components/HelpModal.jsx:23
+msgctxt "keybinds"
+msgid "S"
+msgstr "S"
+
+#: src/components/HelpModal.jsx:24
+msgctxt "keybinds"
+msgid "D"
+msgstr "D"
+
+#: src/components/HelpModal.jsx:31
+msgctxt "keybinds"
+msgid "Shift"
+msgstr "Shift"
+
+#: src/components/HelpModal.jsx:32
+msgctxt "keybinds"
+msgid "C"
+msgstr "C"
+
+#: src/components/SettingsModal.jsx:142
+msgctxt "keybinds"
+msgid "M"
+msgstr "M"

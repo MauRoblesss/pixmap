@@ -1,0 +1,472 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: src/core/ChatProvider.js:327
+msgid "You can not send chat messages with proxy"
+msgstr "No pots enviar missatges al xat amb un proxy"
+
+#: src/core/ChatProvider.js:341
+#, javascript-format
+msgid "You are sending messages too fast, you have to wait ${ waitTime }s :("
+msgstr "Estàs enviant missatges massa ràpid, has d'esperar ${ waitTime }s :("
+
+#: src/core/ChatProvider.js:345
+msgid "You don't have access to this channel"
+msgstr "No tens accés a aquest canal"
+
+#: src/core/ChatProvider.js:361
+msgid "Your mail has to be verified in order to chat"
+msgstr "El teu correu electrònic ha de ser verificat per poder xatejar"
+
+#: src/core/ChatProvider.js:366
+msgid "You are permanently muted, join our guilded to appeal the mute"
+msgstr ""
+"Estàs permanentment silenciat, uneix-te al nostre Guilded per apel·lar el "
+"mute"
+
+#: src/core/ChatProvider.js:371
+#, javascript-format
+msgid "You are muted for another ${ timeMin } minutes"
+msgstr "Estàs silenciat ${ muted } minuts més"
+
+#: src/core/ChatProvider.js:373
+msgid "You are muted for another ${ muted } seconds"
+msgstr "Estàs silenciat ${ muted } segons més"
+
+#: src/core/ChatProvider.js:381
+msgid "Ow no! Spam protection decided to mute you"
+msgstr "Oh no! La protecció contra l'spam ha decidit silenciar-te"
+
+#: src/core/ChatProvider.js:392
+msgid "You can't send a message this long :("
+msgstr "No pots enviar un missatge tan llarg :("
+
+#: src/core/ChatProvider.js:396
+msgid "Please use int channel"
+msgstr "Si us plau, utilitza el canal \"int\""
+
+#: src/core/ChatProvider.js:400
+msgid "Your country is temporary muted from chat"
+msgstr "El teu país està temporalment silenciat al xat"
+
+#: src/core/ChatProvider.js:408
+msgid "Stop flooding."
+msgstr "Para de fer flood."
+
+#: src/routes/reset_password.js:40
+msgid "You sent an empty password or invalid data :("
+msgstr "Has enviat una contrasenya buida o dades invàlides :("
+
+#: src/routes/reset_password.js:52
+msgid "This password-reset link isn't valid anymore :("
+msgstr "Aquest enllaç per restablir la contrasenya ja no és vàlid :("
+
+#: src/routes/reset_password.js:63
+msgid "Your passwords do not match :("
+msgstr "Les contrasenyes són diferents :("
+
+#: src/routes/reset_password.js:78
+msgid "User doesn't exist in our database :("
+msgstr "L'usuari no existeix a la nostra base de dades :("
+
+#: src/routes/reset_password.js:90
+msgid "Password successfully changed."
+msgstr "La contrasenya s'ha canviat exitosament."
+
+#: src/routes/reset_password.js:109
+msgid "Invalid url :( Please check your mail again."
+msgstr ""
+"URL invàlida :( Si us plau comprova el teu correu electrònic un altre cop."
+
+#: src/routes/reset_password.js:122
+msgid ""
+"This passwort reset link is wrong or already expired, please request a new "
+"one (Note: you can use those links just once)"
+msgstr ""
+"Aquest enllaç de restabliment de la contrasenya és incorrecte o ja ha "
+"caducat, si us plau sol·licita'n un de nou (nota: només pots utilitzar "
+"aquests enllaços un cop)"
+
+#: src/ssr-components/Globe.jsx:44
+msgid "Double click on globe to go back."
+msgstr "Doble clic a la bola del món per tornar enrere."
+
+#: src/ssr-components/Globe.jsx:45
+msgid "Loading..."
+msgstr "Carregant..."
+
+#: src/ssr-components/Globe.jsx:51
+msgid "PixMap.Fun 3DGlobe"
+msgstr "PixMap.Fun Món3D"
+
+#: src/ssr-components/Globe.jsx:52
+msgid "A 3D globe of our whole map"
+msgstr "Una bola del món en 3D del nostre mapa sencer"
+
+#: src/ssr-components/Main.jsx:70
+msgid "PixMap.fun"
+msgstr "PixMap.fun"
+
+#: src/ssr-components/Main.jsx:72
+msgid "Place color pixels on an map styled canvas with other players online"
+msgstr ""
+"Col·loca píxels de colors en un gran llenç amb altres jugadors en línia"
+
+#: src/core/mail.js:65
+#, javascript-format
+msgid ""
+"We already sent you a verification mail, you can request another one in "
+"${ minLeft } minutes."
+msgstr ""
+"Ja t'hem enviat un correu electrònic de verificació abans. Pots sol·licitar-"
+"ne un altre en ${ minLeft } minuts."
+
+#: src/core/mail.js:75
+msgid "Welcome ${ name } to PixMap, please verify your mail"
+msgstr ""
+"Benvingut ${ name } a PixMap, si us plau verifica el teu correu "
+"electrònic"
+
+#: src/core/mail.js:77
+#, javascript-format
+msgid "Hello ${ name }"
+msgstr "Hola ${ name }"
+
+#: src/core/mail.js:78
+msgid ""
+"welcome to our little community of pixelplacers, to use your account, you "
+"have to verify your mail. You can do that here: "
+msgstr ""
+"benvingut a la nostra petita comunitat de col·locadors de píxels. Per "
+"utilizar el teu compte, has de verificar el teu correu electrònic. Pots fer-"
+"ho aquí: "
+
+#: src/core/mail.js:78
+msgid "Click to Verify"
+msgstr "Clica per verificar"
+
+#: src/core/mail.js:78 src/core/mail.js:128
+msgid "Or by copying following url:"
+msgstr "O copiant la següent URL:"
+
+#: src/core/mail.js:79
+msgid ""
+"Have fun and don't hesitate to contact us if you encounter any problems :)"
+msgstr ""
+"Diverteix-te i no dubtis de contactar amb nosaltres si tens cap problema :)"
+
+#: src/core/mail.js:80 src/core/mail.js:130
+msgid "Thanks"
+msgstr "Gràcies"
+
+#: src/core/mail.js:98
+msgid ""
+"We already sent you a mail with instructions. Please wait before requesting "
+"another mail."
+msgstr ""
+"Ja t'hem enviat un correu electrònic amb les instruccions. Si us plau, "
+"espera abans de sol·licitar un altre correu."
+
+#: src/core/mail.js:106
+msgid "Couldn't find this mail in our database"
+msgstr "No hem pogut trobar aquest correu electrònic a la nosta base de dades"
+
+#: src/core/mail.js:125
+msgid "You forgot your password for PixMap? Get a new one here"
+msgstr ""
+"Has oblidat la teva contrasenya de PixMap? Aconsegueix-ne una de nova "
+"aquí"
+
+#: src/core/mail.js:127
+msgid "Hello"
+msgstr "Hola"
+
+#: src/core/mail.js:128
+msgid ""
+"You requested to get a new password. You can change your password within the "
+"next 30min here: "
+msgstr ""
+"Has sol·licitat obtenir una nova contrasenya. Pots canviar la teva "
+"contrasenya durant els propers 30 minuts aquí: "
+
+#: src/core/mail.js:128 src/ssr-components/PasswordReset.jsx:19
+#: src/ssr-components/PasswordReset.jsx:28
+msgid "Reset Password"
+msgstr "Restablir la contrasenya"
+
+#: src/core/mail.js:129
+#, javascript-format
+msgid ""
+"If you did not request this mail, please just ignore it (the ip that "
+"requested this mail was ${ ip })."
+msgstr ""
+"Si no has sol·licitat aquest correu electrònic, si us plau ignora'l (la IP "
+"que va sol·licitar aquest correu era ${ ip })."
+
+#: src/ssr-components/PasswordReset.jsx:21
+#: src/ssr-components/RedirectionPage.jsx:15
+msgid "Click here"
+msgstr "Clica aquí"
+
+#: src/ssr-components/PasswordReset.jsx:22
+msgid "to go back to pixmap"
+msgstr "per tornar a PixMap"
+
+#: src/ssr-components/PasswordReset.jsx:29
+#, javascript-format
+msgid "Hello ${ name }, you can set your new password here:"
+msgstr "Hola ${ name }, pots configurar la teva nova contrasenya aquí:"
+
+#: src/ssr-components/PasswordReset.jsx:33
+msgid "New Password"
+msgstr "Contrasenya nova"
+
+#: src/ssr-components/PasswordReset.jsx:41
+msgid "Confirm New Password"
+msgstr "Confirma la contrasenya nova"
+
+#: src/ssr-components/PasswordReset.jsx:47
+msgid "Submit"
+msgstr "Envia"
+
+#: src/ssr-components/PasswordReset.jsx:52
+msgid "PixMap.fun Password Reset"
+msgstr "Restablir la contrasenya de PixMap.fun"
+
+#: src/ssr-components/PasswordReset.jsx:53
+msgid "Reset your password here"
+msgstr "Restableix la teva contrasenya aquí"
+
+#: src/routes/api/captcha.js:22
+msgid "No captcha text given"
+msgstr "No has introduït el text pel captcha"
+
+#: src/routes/api/captcha.js:27
+msgid "No captcha id given"
+msgstr "No s'ha rebut la id del captcha"
+
+#: src/routes/api/auth/register.js:61 src/routes/api/captcha.js:41
+msgid "You took too long, try again."
+msgstr "Has trigat massa, prova-ho un altre cop."
+
+#: src/routes/api/auth/register.js:64 src/routes/api/captcha.js:47
+msgid "You failed your captcha"
+msgstr "Has fallat el captcha"
+
+#: src/routes/api/auth/register.js:67 src/routes/api/captcha.js:53
+msgid "Unknown Captcha Error"
+msgstr "Error de captcha desconegut"
+
+#: src/routes/api/captcha.js:60
+msgid "Server error occured"
+msgstr "S'ha produït un error del servidor"
+
+#: src/routes/api/modtools.js:50
+msgid "You are not logged in"
+msgstr "No has iniciat sessió"
+
+#: src/routes/api/modtools.js:62
+msgid "You are not allowed to access this page"
+msgstr "No tens permís per accedir a aquesta pàgina"
+
+#: src/routes/api/modtools.js:128
+msgid "Just admins can do that"
+msgstr "Només els administradors poden fer això"
+
+#: src/utils/validation.js:18
+msgid "Email can't be empty."
+msgstr "El correu electrònic no pot estar buit."
+
+#: src/utils/validation.js:19
+msgid "Email should be at least 5 characters long."
+msgstr "El correu electrònic ha de tenir com a mínim 5 caràcters."
+
+#: src/utils/validation.js:20
+msgid "Email can't be longer than 40 characters."
+msgstr "El correu electrònic no pot tenir més de 40 caràcters."
+
+#: src/utils/validation.js:21
+msgid "Email should at least contain a dot"
+msgstr "El correu electrònic ha de contenir com a mínim un punt"
+
+#: src/utils/validation.js:23
+msgid "Email should contain a @"
+msgstr "El correu electrònic ha de contenir una @"
+
+#: src/utils/validation.js:30
+msgid "Name can't be empty."
+msgstr "El nom no pot estar buit."
+
+#: src/utils/validation.js:31
+msgid "Name must be at least 4 characters long"
+msgstr "El nom ha de tenir com a mínim 4 caràcters"
+
+#: src/utils/validation.js:32
+msgid "Name must be shorter than 26 characters"
+msgstr "El nom ha de tenir menys de 26 caràcters"
+
+#: src/utils/validation.js:39
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "El nom conté caràcters invalids com @  /  \\  #"
+
+#: src/utils/validation.js:54
+msgid "No password given."
+msgstr "No s'ha escrit una contrasenya."
+
+#: src/utils/validation.js:57
+msgid "Password must be at least 6 characters long."
+msgstr "La contrasenya ha de tenir 6 caràcters com a mínim."
+
+#: src/utils/validation.js:60
+msgid "Password must be shorter than 60 characters."
+msgstr "La contrasenya ha de tenir menys de 60 caràcters."
+
+#: src/routes/api/auth/register.js:33
+msgid "No Captcha given"
+msgstr "No s'ha rebut el captcha"
+
+#: src/routes/api/auth/register.js:36
+msgid "E-Mail already in use."
+msgstr "El correu electrònic ja està en ús."
+
+#: src/routes/api/auth/register.js:38
+msgid "Username already in use."
+msgstr "El nom d'usuari ja està en ús."
+
+#: src/routes/api/auth/register.js:91
+msgid "Failed to create new user :("
+msgstr "No s'ha pogut crear un nou usuari :("
+
+#: src/routes/api/auth/register.js:106
+msgid "Failed to establish session after register :("
+msgstr "No s'ha pogut establir la sessió després del registre :("
+
+#: src/routes/api/auth/verify.js:25 src/routes/api/auth/verify.js:32
+msgid "Mail verification"
+msgstr "Verificació del correu electrònic"
+
+#: src/routes/api/auth/verify.js:26
+msgid "You are now verified :)"
+msgstr "Ja estàs verificat :)"
+
+#: src/routes/api/auth/verify.js:32
+msgid ""
+"Your mail verification code is invalid or already expired :(, please request "
+"a new one."
+msgstr ""
+"El codi de verificació del correu electrònic no és vàlid o ja ha caducat :"
+"( si us plau sol·licita'n un de nou."
+
+#: src/routes/api/auth/logout.js:13
+msgid "You are not even logged in."
+msgstr "Ni tan sols has iniciat sessió."
+
+#: src/routes/api/auth/change_mail.js:41
+#: src/routes/api/auth/change_passwd.js:37
+#: src/routes/api/auth/delete_account.js:38
+msgid "You are not authenticated."
+msgstr "No estàs verificat."
+
+#: src/routes/api/auth/change_mail.js:50
+#: src/routes/api/auth/change_passwd.js:46
+#: src/routes/api/auth/delete_account.js:48
+msgid "Incorrect password!"
+msgstr "Contrasenya incorrecta!"
+
+#: src/ssr-components/RedirectionPage.jsx:20
+msgid "You will be automatically redirected after 15s"
+msgstr "Seràs redirigit automàticament al cap de 15 segons"
+
+#: src/ssr-components/RedirectionPage.jsx:21
+#, javascript-format
+msgid "Or ${ clickHere } to go back to pixmap"
+msgstr "O ${ clickHere } per tornar a PixMap"
+
+#: src/ssr-components/RedirectionPage.jsx:25
+msgid "PixMap.fun Accounts"
+msgstr "Comptes de PixMap.fun"
+
+#: src/canvasesDesc.js:18
+msgid "Earth"
+msgstr "Terra"
+
+#: src/canvasesDesc.js:19
+msgid "Moon"
+msgstr "Lluna"
+
+#: src/canvasesDesc.js:20
+msgid "3D Canvas"
+msgstr "Llenç 3D"
+
+#: src/canvasesDesc.js:21
+msgid "Coronavirus"
+msgstr "Coronavirus"
+
+#: src/canvasesDesc.js:22
+msgid "PixelZone"
+msgstr "PixelZone"
+
+#: src/canvasesDesc.js:23
+msgid "PixelCanvas"
+msgstr "PixelCanvas"
+
+#: src/canvasesDesc.js:24
+msgid "1bit"
+msgstr "1bit"
+
+#: src/canvasesDesc.js:25
+msgid "Top10"
+msgstr "Top10"
+
+#: src/canvasesDesc.js:28
+msgid "Our main canvas, a huge map of the world. Place everywhere you like"
+msgstr ""
+"El nostre llenç principal, un enorme mapa del món. Col·loca allà on vulguis"
+
+#: src/canvasesDesc.js:29
+msgid ""
+"Moon canvas. Safe space for art. No flags or large text (unless part of art) "
+"or art larger than 1.5k x 1.5k pixels."
+msgstr ""
+"Llenç de la Lluna. Espai segur per a l'art. No es poden fer banderes ni text "
+"gran (tret que siguin part d'un art) ni imatges superiors a 1,5k x 1,5k "
+"píxels."
+
+#: src/canvasesDesc.js:30
+msgid "Place Voxels on a 3D canvas with others"
+msgstr "Col·loca voxels en un llenç 3D amb altres jugadors"
+
+#: src/canvasesDesc.js:31
+msgid "Special canvas to spread awareness of SARS-CoV2"
+msgstr "Llenç especial per conscienciar sobre el SARS-CoV-2"
+
+#: src/canvasesDesc.js:32
+msgid "Mirror of PixelZone"
+msgstr "Mirall de PixelZone"
+
+#: src/canvasesDesc.js:33
+msgid "Mirror of PixelCanvas"
+msgstr "Mirall de PixelCanvas"
+
+#: src/canvasesDesc.js:34
+msgid "Black and White canvas"
+msgstr "Llenç en blanc i negre"
+
+#: src/canvasesDesc.js:35
+msgid ""
+"A canvas for the most active players from the the previous day. Daily "
+"ranking updates at 00:00 UTC."
+msgstr ""
+"Un llenç per als jugadors més actius del dia anterior. La classificació "
+"diària s'actualitza a les 00:00 UTC."

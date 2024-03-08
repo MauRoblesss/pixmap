@@ -1,0 +1,466 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: src/core/ChatProvider.js:434
+msgid "You can not send chat messages with proxy"
+msgstr "Nemůžeš posílat zprávy s proxy"
+
+#: src/core/ChatProvider.js:436
+msgid "Your country is temporary muted from this chat channel"
+msgstr "Tvůj stát je prozatím mutelej z tohodle chat kanálů"
+
+#: src/core/ChatProvider.js:439
+msgid "You are permanently muted, join our guilded to apppeal the mute"
+msgstr ""
+"Jseš permanentně mutelej, připoj se na náš guilded aby sis mohl appealnout "
+"mute"
+
+#: src/core/ChatProvider.js:441
+msgid "You are banned"
+msgstr "Jsi zabanován"
+
+#: src/core/ChatProvider.js:443
+msgid "Your Internet Provider is banned"
+msgstr "Tvůj poskytovatel internetu je zabanován"
+
+#: src/core/ChatProvider.js:448
+#, javascript-format
+msgid "You are muted for another ${ timeMin } minutes"
+msgstr "Jseš mutelej na dalších ${ timeMin } minut"
+
+#: src/core/ChatProvider.js:450
+msgid "You are muted for another ${ ttl } seconds"
+msgstr "Jseš mutelej na dalších ${ ttl } sekund"
+
+#: src/core/ChatProvider.js:467
+#, javascript-format
+msgid "You are sending messages too fast, you have to wait ${ waitTime }s :("
+msgstr "Posíláš zprávy příliš rychlo, musíš počkat ${ waitTime }s :("
+
+#: src/core/ChatProvider.js:471
+msgid "You don't have access to this channel"
+msgstr "Nemáš přístup na tenhle kanál"
+
+#: src/core/ChatProvider.js:488
+msgid "Your mail has to be verified in order to chat"
+msgstr "Tvůj email musí bejt ověřen aby ses mohl bavit"
+
+#: src/core/ChatProvider.js:498
+msgid "You can't send a message this long :("
+msgstr "Nemůžeš posílat zprávy takhle dlouhý :("
+
+#: src/core/ChatProvider.js:502
+msgid "Please use int channel"
+msgstr "Prosím použíj int kanál"
+
+#: src/core/ChatProvider.js:510
+msgid "Stop flooding."
+msgstr "Přestaň spamovat."
+
+#: src/routes/reset_password.js:39
+msgid "You sent an empty password or invalid data :("
+msgstr "Si poslal prázdné heslo nebo chybný data :("
+
+#: src/routes/reset_password.js:51
+msgid "This password-reset link isn't valid anymore :("
+msgstr "Tohle heslo-resetující odkaz už je neplatný :("
+
+#: src/routes/reset_password.js:62
+msgid "Your passwords do not match :("
+msgstr "Tvoje hesla nejsou stejná :("
+
+#: src/routes/reset_password.js:77
+msgid "User doesn't exist in our database :("
+msgstr "Uživatelské jméno neexistuje v naší database :("
+
+#: src/routes/reset_password.js:89
+msgid "Passowrd successfully changed."
+msgstr "Heslo úspěšně změněno."
+
+#: src/routes/reset_password.js:108
+msgid "Invalid url :( Please check your mail again."
+msgstr "Neplatný URL :( Prosím zkontroluj svůj mail zase."
+
+#: src/ssr/Globe.jsx:32
+msgid "PixMap.Fun 3DGlobe"
+msgstr "PixMap.Fun 3DGlobe"
+
+#: src/ssr/Globe.jsx:33
+msgid "A 3D globe of our whole map"
+msgstr "3D mapa naší celej mapy"
+
+#: src/ssr/Globe.jsx:46
+msgid "Double click on globe to go back."
+msgstr "Dvakrát klikní na globus aby si šel zpátky"
+
+#: src/ssr/Globe.jsx:47
+msgid "Loading..."
+msgstr "Načítaní..."
+
+#: src/ssr/PopUp.jsx:58
+msgid "pmfun"
+msgstr "pmfun"
+
+#: src/ssr/PopUp.jsx:59
+msgid "PixMap.Fun PopUp"
+msgstr "PixMap.Fun PopUp"
+
+#: src/ssr/Main.jsx:67
+msgid "PixMap.Fun"
+msgstr "PixMap.Fun"
+
+#: src/ssr/Main.jsx:68
+msgid "Place color pixels on an map styled canvas with other players online"
+msgstr ""
+"Polož barevné pixely na mapově stylované plátno s ostatníma online hráčema"
+
+#: src/utils/validation.js:17
+msgid "Email can't be empty."
+msgstr "Email nemůže bejt prázdnej"
+
+#: src/utils/validation.js:18
+msgid "Email should be at least 5 characters long."
+msgstr "Email musí obsahovat 5 znaků."
+
+#: src/utils/validation.js:19
+msgid "Email can't be longer than 40 characters."
+msgstr "Email nemůže být delší jak 40 znaků"
+
+#: src/utils/validation.js:20
+msgid "Email should at least contain a dot"
+msgstr "Email musí obsahovat tečku"
+
+#: src/utils/validation.js:22
+msgid "Email should contain a @"
+msgstr "Email musí obsahovat @"
+
+#: src/utils/validation.js:29
+msgid "Name can't be empty."
+msgstr "Jméno nemůže být prázdný"
+
+#: src/utils/validation.js:30
+msgid "Name must be at least 2 characters long"
+msgstr "Jméno musí mít aspoň 2 znaky."
+
+#: src/utils/validation.js:31
+msgid "Name must be shorter than 26 characters"
+msgstr "Jméno musí být kratší jak 26 znaků"
+
+#: src/utils/validation.js:38
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Jméno obsahuje chybné znaky jako @, /, \\ or #"
+
+#: src/utils/validation.js:53
+msgid "No password given."
+msgstr "Nebylo zadané heslo"
+
+#: src/utils/validation.js:56
+msgid "Password must be at least 6 characters long."
+msgstr "Heslo musí obsahovat aspoň 6 znaků."
+
+#: src/utils/validation.js:59
+msgid "Password must be shorter than 60 characters."
+msgstr "Heslo musí být kratší jak 60 znaků."
+
+#: src/ssr/PasswordReset.jsx:20 src/ssr/PasswordReset.jsx:40
+msgid "PixMap.fun Password Reset"
+msgstr "PixMap.fun Heslo reset"
+
+#: src/ssr/PasswordReset.jsx:21 src/ssr/PasswordReset.jsx:41
+msgid "Reset your password here"
+msgstr "Resetuj si heslo tu"
+
+#: src/core/MailProvider.js:105 src/ssr/PasswordReset.jsx:28
+#: src/ssr/PasswordReset.jsx:49
+msgid "Reset Password"
+msgstr "Resetovat Heslo"
+
+#: src/ssr/PasswordReset.jsx:30 src/ssr/RedirectionPage.jsx:12
+msgid "Click here"
+msgstr "Klikni tu"
+
+#: src/ssr/PasswordReset.jsx:30
+msgid "to go back to pixmap"
+msgstr "aby si šel zpátky na pixmap"
+
+#: src/ssr/PasswordReset.jsx:50
+#, javascript-format
+msgid "Hello ${ name }, you can set your new password here:"
+msgstr "Ahoj ${ name }, můžeš si nastavit svoje nové heslo tady:"
+
+#: src/ssr/PasswordReset.jsx:54
+msgid "New Password"
+msgstr "Nový heslo"
+
+#: src/ssr/PasswordReset.jsx:60
+msgid "Confirm New Password"
+msgstr "Potvrdit Nový Heslo"
+
+#: src/ssr/PasswordReset.jsx:65
+msgid "Submit"
+msgstr "Potvrdit"
+
+#: src/routes/api/modtools.js:53
+msgid "You are not logged in"
+msgstr "Nejsi přihlášenej"
+
+#: src/routes/api/modtools.js:65
+msgid "You are not allowed to access this page"
+msgstr "Nejste povolen na tuhle stránků"
+
+#: src/routes/api/modtools.js:207
+msgid "Just admins can do that"
+msgstr "Pouze admini to můžou dělat"
+
+#: src/routes/api/baninfo.js:32
+msgid "You are not banned"
+msgstr "Nejste zabanován"
+
+#: src/routes/api/auth/logout.js:11
+msgid "You are not even logged in."
+msgstr "Nejste ani přihlášen"
+
+#: src/routes/api/auth/delete_account.js:55 src/routes/api/auth/logout.js:20
+msgid "Server error when logging out."
+msgstr "Serverová chyba při odhlašování"
+
+#: src/routes/api/auth/verify.js:26 src/routes/api/auth/verify.js:35
+msgid "Mail verification"
+msgstr "Ověřování mailu"
+
+#: src/routes/api/auth/verify.js:27
+msgid "You are now verified :)"
+msgstr "Od teď jste ověřen"
+
+#: src/routes/api/auth/verify.js:35
+msgid ""
+"Your mail verification code is invalid or already expired :(, please request "
+"a new one."
+msgstr ""
+"Váš mailovej ověřující kód je již neplatný :(, prosím poproste o novej."
+
+#: src/routes/api/auth/change_mail.js:21 src/routes/api/auth/register.js:24
+msgid "This email provider is not allowed"
+msgstr "Tenhle email dodavatel tu není povolen"
+
+#: src/routes/api/auth/register.js:31
+msgid "No Captcha given"
+msgstr "Žádná captcha zadaná"
+
+#: src/routes/api/auth/register.js:34
+msgid "E-Mail already in use."
+msgstr "E-mail je už používán"
+
+#: src/routes/api/auth/register.js:36
+msgid "Username already in use."
+msgstr "Jméno je už používáno"
+
+#: src/routes/api/auth/register.js:59
+msgid "You took too long, try again."
+msgstr "Trvalo vám to až moc dlouho, zkuste znovu."
+
+#: src/routes/api/auth/register.js:62
+msgid "You failed your captcha"
+msgstr "Nepodařila se vám vaše captcha"
+
+#: src/routes/api/auth/register.js:65
+msgid "Unknown Captcha Error"
+msgstr "Neznáma chyba captcha"
+
+#: src/routes/api/auth/register.js:89
+msgid "Failed to create new user :("
+msgstr "Nepodařilo se udělat nového uživatele :("
+
+#: src/routes/api/auth/register.js:105
+msgid "Failed to establish session after register :("
+msgstr "Nepodařilo se vytvořit schůzi hned po registraci :("
+
+#: src/routes/api/auth/change_mail.js:43
+#: src/routes/api/auth/change_passwd.js:34
+#: src/routes/api/auth/delete_account.js:35
+msgid "You are not authenticated."
+msgstr "Nejste ověřený"
+
+#: src/routes/api/auth/change_mail.js:52
+#: src/routes/api/auth/change_passwd.js:43
+#: src/routes/api/auth/delete_account.js:45
+msgid "Incorrect password!"
+msgstr "Nesprávné heslo!"
+
+#: src/ssr/RedirectionPage.jsx:19
+msgid "PixMap.fun Accounts"
+msgstr "PixMap.fun účty"
+
+#: src/ssr/RedirectionPage.jsx:29
+msgid "You will be automatically redirected after 15s"
+msgstr "Budete automaticky přesměrováný po 15s"
+
+#: src/ssr/RedirectionPage.jsx:30
+#, javascript-format
+msgid "Or ${ clickHere } to go back to pixmap"
+msgstr "Nebo ${ clickHere } aby ses dostal zpátky na pixmap"
+
+#: src/canvasesDesc.js:19
+msgid "Earth"
+msgstr "Zem"
+
+#: src/canvasesDesc.js:20
+msgid "Moon"
+msgstr "Měsíc"
+
+#: src/canvasesDesc.js:21
+msgid "3D Canvas"
+msgstr "3D Plátno"
+
+#: src/canvasesDesc.js:22
+msgid "Coronavirus"
+msgstr "Coronavirus"
+
+#: src/canvasesDesc.js:23
+msgid "PixelZone"
+msgstr "Pixelzone"
+
+#: src/canvasesDesc.js:24
+msgid "PixelCanvas"
+msgstr "PixelCanvas"
+
+#: src/canvasesDesc.js:25
+msgid "1bit"
+msgstr "1bit"
+
+#: src/canvasesDesc.js:26
+msgid "Top10"
+msgstr "Top10"
+
+#: src/canvasesDesc.js:29
+msgid "Our main canvas, a huge map of the world. Place everywhere you like"
+msgstr "Naše hlavní plátno, velká mapa země. Pokládejte kde chcete"
+
+#: src/canvasesDesc.js:30
+msgid ""
+"Moon canvas. Safe space for art. No flags or large text (unless part of art) "
+"or art larger than 1.5k x 1.5k pixels."
+msgstr ""
+"Plátno měsíce. Bezpečný místo pro obrazy. Žádné vlajky nebo velký texty "
+"(pouze jestli to není část obrazu) nebo obrazy větší jak 1,5k x 1,5k pixelu."
+
+#: src/canvasesDesc.js:31
+msgid "Place Voxels on a 3D canvas with others"
+msgstr "Polož Voxely na 3D plátno s ostatníma"
+
+#: src/canvasesDesc.js:32
+msgid "Special canvas to spread awareness of SARS-CoV2"
+msgstr "Speciální plátno pro zvýšení pozornosti o SARS-CoV2"
+
+#: src/canvasesDesc.js:33
+msgid "Mirror of PixelZone"
+msgstr "Zrcadlo PixelZone"
+
+#: src/canvasesDesc.js:34
+msgid "Mirror of PixelCanvas"
+msgstr "Zrcadlo PixelCanvasu"
+
+#: src/canvasesDesc.js:35
+msgid "Black and White canvas"
+msgstr "Černo-Bíle plátno"
+
+#: src/canvasesDesc.js:36
+msgid ""
+"A canvas for the most active players from the the previous day. Daily "
+"ranking updates at 00:00 UTC."
+msgstr ""
+"Plátno pro nejvíc aktivní hráče ze včerejška. Denní hodnocení se aktualizuje "
+"v 00:00 UTC."
+
+#: src/core/MailProvider.js:66
+#, javascript-format
+msgid "Welcome ${ name } to PixMap, plese verify your mail"
+msgstr "Vítej ${ name } na PixMap, prosím ověř svůj mail"
+
+#: src/core/MailProvider.js:67
+msgid "Hello ${ name }"
+msgstr "Ahoj ${ name }"
+
+#: src/core/MailProvider.js:68
+msgid ""
+"welcome to our little community of pixelplacers, to use your account, you "
+"have to verify your mail. You can do that here: "
+msgstr ""
+"vítej na naší malou komunitu pixelplacerů, pro použití tvého účtu, musíš si "
+"ověřit mail. Můžeš to udělat zde:"
+
+#: src/core/MailProvider.js:68
+msgid "Click to Verify"
+msgstr "Klikni pro ověření"
+
+#: src/core/MailProvider.js:68 src/core/MailProvider.js:105
+msgid "Or by copying following url:"
+msgstr "Nebo zkopírůj tohle URL:"
+
+#: src/core/MailProvider.js:69
+msgid ""
+"Have fun and don't hesitate to contact us if you encouter any problems :)"
+msgstr "Měj zábavů a neboj se nás kontaktovat jestli najdeš nějaký problémy :)"
+
+#: src/core/MailProvider.js:70 src/core/MailProvider.js:107
+msgid "Thanks"
+msgstr "Dík"
+
+#: src/core/MailProvider.js:87
+#, javascript-format
+msgid ""
+"We already sent you a verification mail, you can request another one in "
+"${ minLeft } minutes."
+msgstr ""
+"Už jsme vám poslali ověřující email, můžeš poprosit o novej za ${ minLeft } "
+"minut"
+
+#: src/core/MailProvider.js:103
+msgid "You forgot your password for PixMap? Get a new one here"
+msgstr "Zapomenul sis heslo na PixMap? Získej nový tady"
+
+#: src/core/MailProvider.js:104
+msgid "Hello"
+msgstr "Ahoj"
+
+#: src/core/MailProvider.js:105
+msgid ""
+"You requested to get a new password. You can change your password within the "
+"next 30min here: "
+msgstr "Požádal si o nový heslo. Můžeš si změnit heslo v rámci 30 minut tady:"
+
+#: src/core/MailProvider.js:106
+#, javascript-format
+msgid ""
+"If you did not request this mail, please just ignore it (the ip that "
+"requested this mail was ${ ip })."
+msgstr ""
+"Jestli si o tenhle email nepožadoval, prosím to ignoruj (ip které o tenhle "
+"mail požadoval je ${ ip })."
+
+#: src/core/MailProvider.js:114
+msgid "Mail is not configured on the server"
+msgstr "Mail není konfigurován na servru"
+
+#: src/core/MailProvider.js:122
+msgid ""
+"We already sent you a mail with instructions. Please wait before requesting "
+"another mail."
+msgstr ""
+"Už jsme vám poslali mail s instrukcemi. Prosím počkej než budete požádat o "
+"další mail."
+
+#: src/core/MailProvider.js:130
+msgid "Couldn't find this mail in our database"
+msgstr "Nemohli jsme najít tenhle mail v naší database"

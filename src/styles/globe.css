@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: #000;
+  font-size: 16px;
+  font-family: Montserrat,sans-serif;
+}
+
+.tm {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.webgl-error {
+  font: 15px/30px monospace;
+  text-align: center;
+  color: #fff;
+  margin: 50px;
+}
+
+
+.webgl-error a {
+  color: #fff;
+}
+
+
+#coorbox {
+  position: absolute;
+  background-color: hsla(0,0%,89%,.8);
+  color: #000;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 36px;
+  width: auto;
+  height: 36px;
+  padding: 0 24px;
+  border: solid #000;
+  border-width: thin;
+  left: 16px;
+  bottom: 16px
+}
+
+
+#info {
+  font-size: 13px;
+  position: absolute;
+  background-color: hsla(0,0%,89%,.8);
+  color: #000;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 36px;
+  width: auto;
+  height: 36px;
+  padding: 0 24px;
+  border: solid #000;
+  border-width: thin;
+  left: 16px;
+  top: 16px
+}
+
+#loading {
+  font-size: 16px;
+  font-weight: bold;
+  position: absolute;
+  background-color: hsla(0,0%,89%,.8);
+  color: #4d4d4d;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 36px;
+  width: auto;
+  height: 36px;
+  padding: 0 24px;
+  border: solid #000;
+  border-width: thin;
+  right: 16px;
+  top: 16px
+}
