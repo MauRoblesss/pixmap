@@ -1,6 +1,6 @@
 > **Currently pixelplanet is being developed in a another private repository. This development version diverted and is incompatible with the stable version here. Until it is ready, this public repository will be frozen.**
 
-# PixelPlanet.fun
+# PixMap.fun
 
 
 [![Guilded](https://img.shields.io/badge/Discord-Support-blue.svg)](https://pixelplanet.fun/guilded)
