@@ -2,6 +2,11 @@
 
 # PixMap.fun
 
+PixMap uses PixelPlanet's open source software
+
+https://git.pixelplanet.fun/ppfun/pixelplanet/
+pixelplanet - Collaborative online canvas to draw with multiple people
+Copyright (C) 2020, 2024 hf <hf@pixelplanet.fun>
 
 [![Guilded](https://img.shields.io/badge/Discord-Support-blue.svg)](https://pixelplanet.fun/guilded)
 
