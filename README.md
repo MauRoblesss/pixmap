@@ -38,7 +38,7 @@ Checkout repository
 
 ```
 git clone https://github.com/MauRoblesss/pixmap.git
-cd pixelplanet
+cd pixmap
 ```
 
 Install packages and build
