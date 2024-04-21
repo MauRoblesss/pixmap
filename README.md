@@ -37,7 +37,7 @@ Click or tab: Place Pixel
 Checkout repository
 
 ```
-git clone https://git.pixelplanet.fun/ppfun/pixelplanet.git
+git clone https://github.com/MauRoblesss/pixmap.git
 cd pixelplanet
 ```
 
