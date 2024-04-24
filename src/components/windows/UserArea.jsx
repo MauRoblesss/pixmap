@@ -16,6 +16,8 @@ import Tabs from '../Tabs';
 import UserAreaContent from '../UserAreaContent';
 
 // eslint-disable-next-line max-len
+const Rules = React.lazy(() => import(/* webpackChunkName: "rules" */ '../Rules'));
+// eslint-disable-next-line max-len
 const Rankings = React.lazy(() => import(/* webpackChunkName: "stats" */ '../Rankings'));
 // eslint-disable-next-line max-len
 const Converter = React.lazy(() => import(/* webpackChunkName: "converter" */ '../Converter'));
@@ -57,6 +59,11 @@ const UserArea = () => {
       <Tabs activeTab={activeTab} setActiveTab={setActiveTab}>
         <div label={t`Profile`}>
           {(name) ? <UserAreaContent /> : <LogInArea />}
+        </div>
+        <div label={t`Rules`}>
+        <Suspense fallback={<div>Loading...</div>}>
+          <Rules />
+          </Suspense>
         </div>
         <div label={t`Statistics`}>
           <Suspense fallback={<div>Loading...</div>}>
