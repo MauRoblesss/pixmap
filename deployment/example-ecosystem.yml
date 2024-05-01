@@ -1,0 +1,15 @@
+  - script     : ./server.js
+    name       : 'ppfun'
+    node_args  : --nouse-idle-notification --expose-gc
+    watch      : [ 'server.js' ]
+    watch_delay: 5000
+    env:
+      PORT: 5000
+      HOST: "0.0.0.0"
+      #HOST: "localhost"
+      REDIS_URL: 'redis://localhost:6379'
+      MYSQL_HOST: "localhost"
+      MYSQL_USER: "pixelplanet"
+      MYSQL_DATABASE: "pixelplanet"
+      MYSQL_PW: "sqlpassword"
+      SESSION_SECRET: "ayyylmao"
