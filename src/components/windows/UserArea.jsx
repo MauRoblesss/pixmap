@@ -16,6 +16,8 @@ import Tabs from '../Tabs';
 import UserAreaContent from '../UserAreaContent';
 
 // eslint-disable-next-line max-len
+const Factions = React.lazy(() => import(/* webpackChunkName: "factions" */ '../Factions'));
+// eslint-disable-next-line max-len
 const Rules = React.lazy(() => import(/* webpackChunkName: "rules" */ '../Rules'));
 // eslint-disable-next-line max-len
 const Rankings = React.lazy(() => import(/* webpackChunkName: "stats" */ '../Rankings'));
@@ -73,6 +75,11 @@ const UserArea = () => {
         <div label={t`Void`}>
           <Suspense fallback={<div>Loading...</div>}>
             <Void />
+          </Suspense>
+        </div>
+        <div label={t`Factions`}>
+          <Suspense fallback={<div>Loading...</div>}>
+            <Factions />
           </Suspense>
         </div>
         <div label={t`Converter`}>
