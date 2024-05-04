@@ -33,8 +33,8 @@ async function banme(req, res) {
     expires = Date.now() + 1000 * 3600 * 24 * 3;
   */
   } else if (code === 3) {
-    reason = 'Updated Userscript Bot';
-    expires = Date.now() + 1000 * 3600 * 24 * 30;
+    reason = 'Proxy lol';
+    expires = Date.now() + 1000 * 3600 * 24 * 14;
   } else {
     res.json({
       status: 'nope',
