@@ -1,5 +1,5 @@
   - script     : ./server.js
-    name       : 'ppfun'
+    name       : 'pmfun'
     node_args  : --nouse-idle-notification --expose-gc
     watch      : [ 'server.js' ]
     watch_delay: 5000
@@ -9,7 +9,7 @@
       #HOST: "localhost"
       REDIS_URL: 'redis://localhost:6379'
       MYSQL_HOST: "localhost"
-      MYSQL_USER: "pixelplanet"
-      MYSQL_DATABASE: "pixelplanet"
+      MYSQL_USER: "pixmap"
+      MYSQL_DATABASE: "pixmap"
       MYSQL_PW: "sqlpassword"
       SESSION_SECRET: "ayyylmao"
