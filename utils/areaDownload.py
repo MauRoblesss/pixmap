@@ -5,8 +5,8 @@ import sys, os, io, math
 import asyncio
 import aiohttp
 
-USER_AGENT = "ppfun areaDownload 1.0 " + ' '.join(sys.argv[1:])
-PPFUN_URL = "https://pixelplanet.fun"
+USER_AGENT = "pmfun areaDownload 1.0 " + ' '.join(sys.argv[1:])
+PPFUN_URL = "https://pixmap.fun"
 
 class Color(object):
     def __init__(self, index, rgb):
