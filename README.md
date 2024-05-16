@@ -7,11 +7,7 @@ https://git.pixelplanet.fun/ppfun/pixelplanet/
 pixelplanet - Collaborative online canvas to draw with multiple people
 Copyright (C) 2020, 2024 hf <hf@pixelplanet.fun>
 
-[![Guilded](https://img.shields.io/badge/Discord-Support-blue.svg)](https://pixelplanet.fun/guilded)
-
 Official  repository of [pixmap.fun](https://pixmap.fun) with [pixelplanet.fun](https://pixelplanet.fun) code.
-
-![videothumb](promotion/videothumb.gif)
 
 > If you want to help us translate pixelplanet.fun, look into [i18n](./i18n)
 
@@ -25,8 +21,6 @@ Controls:
 W, A, S, D, click and drag or pan: Move
 Q, E or scroll or pinch: Zoom
 Click or tab: Place Pixel
-![screenshot](promotion/screenshot.png)
-
 
 ## Build
 ### Requirements
@@ -245,8 +239,6 @@ Note:
 
 - You do not have to run backups or historical view, it's optional.
 
-![historicalview](promotion/historicalview.gif)
-
 Pixelplanet is able to let the user browse through the past with those backups. For this you need to define `BACKUP_URL` and `BACKUP_DIR` in your ecosystem.yml for pixelplanet.
 `BACKUP_URL` is the URL where the backup folder is available. You have to let another server serve those files or use nginx.
 `BACKUP_DIR` is the full path of the local directory where the backup is located (whats set as `BACKUP_DIRECTORY` in the command of the backup.js).
@@ -255,8 +247,6 @@ Pixelplanet is able to let the user browse through the past with those backups. 
 
 If v is set and true for a canvas in the canvas.json, it will be a 3D voxel canvas.
 3D Canvases can not be seen in Historical View.
-
-![threecanvas](promotion/threecanvas.png)
 
 ## Development
 
