@@ -6,9 +6,9 @@ import datetime
 import asyncio
 import aiohttp
 
-USER_AGENT = "ppfun historyDownload 1.0 " + ' '.join(sys.argv[1:])
-PPFUN_URL = "https://pixelplanet.fun"
-PPFUN_STORAGE_URL = "https://storage.pixelplanet.fun"
+USER_AGENT = "pmfun historyDownload 1.0 " + ' '.join(sys.argv[1:])
+PPFUN_URL = "https://pixmap.fun"
+PPFUN_STORAGE_URL = "https://backup.pixmap.fun"
 
 # how many frames to skip
 #  1 means none
